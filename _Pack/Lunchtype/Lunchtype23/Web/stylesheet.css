@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'lunchtype23italic';
+    src: url('lunchtype23-regular-italic-webfont.eot');
+    src: url('lunchtype23-regular-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lunchtype23-regular-italic-webfont.woff2') format('woff2'),
+         url('lunchtype23-regular-italic-webfont.woff') format('woff'),
+         url('lunchtype23-regular-italic-webfont.ttf') format('truetype'),
+         url('lunchtype23-regular-italic-webfont.svg#lunchtype23italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lunchtype23medium_italic';
+    src: url('lunchtype23-medium-italic-webfont.eot');
+    src: url('lunchtype23-medium-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lunchtype23-medium-italic-webfont.woff2') format('woff2'),
+         url('lunchtype23-medium-italic-webfont.woff') format('woff'),
+         url('lunchtype23-medium-italic-webfont.ttf') format('truetype'),
+         url('lunchtype23-medium-italic-webfont.svg#lunchtype23medium_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lunchtype23light_italic';
+    src: url('lunchtype23-light-italic-webfont.eot');
+    src: url('lunchtype23-light-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lunchtype23-light-italic-webfont.woff2') format('woff2'),
+         url('lunchtype23-light-italic-webfont.woff') format('woff'),
+         url('lunchtype23-light-italic-webfont.ttf') format('truetype'),
+         url('lunchtype23-light-italic-webfont.svg#lunchtype23light_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

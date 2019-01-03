@@ -1,0 +1,33 @@
+FONTLOG for Sometype Mono font family.
+
+This file provides detailed information on the Sometype Mono font family.
+This information should be distributed along with the Sometype Mono fonts and any
+derivative works.
+
+
+Basic Font Information
+
+Sometype Mono is a monospaced font family for coding and tabular layout.
+Consists of 6 styles so far.
+To contribute to the project, Please contact to Dharma Type at https://github.com/dharmatype/Sometype-Mono/ or visit http://dharmatype.com
+
+
+ChangeLog
+
+2 Feb 2018 (Ryoichi Tsunekawa) Sometype Mono v1.000
+Initial Release
+
+22 Jan 2018 (Ryoichi Tsunekawa) Sometype Mono v0.001
+Initial Beta
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N),
+email (E), web-address (if you have one) (W) and
+description (D). This list is in alphabetical order.
+
+N: Ryoichi Tsunekawa
+E: info@dharmatype.com
+W: http://dharmatype.com
+D: Original designer
