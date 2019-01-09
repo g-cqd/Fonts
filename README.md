@@ -1,15 +1,28 @@
 # Fonts
 
-## Introduce these resources
+## Introduce Fonts
+
+I know, you know, we know, fonts can be expansive. But it is really easy to find free files of them. So there are so much of them here and it's not going to stop.
 
 
-I don't own any of fonts that are included here.
 
 
-Check rights and use conditions of any font before use it publicly. 
+## Versions
+
+19 - 1 - 10 : 1.0.0 : raw files, some bugs/errors can remain
 
 
-### Fonts available
+
+
+## Is it really free ?
+
+I don't own any of fonts included here.
+
+
+Check rights and usage conditions of any font before use it publicly. I DO NOT RECOMMEND TO USE WITHOUT BEING SURE YOU CAN.
+
+
+## Provided Fonts
     - Agane
     - Agate
     - Agrandir
