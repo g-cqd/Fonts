@@ -23,6 +23,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 
 
 ## Provided Fonts
+- Acari
 - Agane
 - Agate
 - Agrandir
@@ -35,16 +36,20 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Apercu Pro
 - AO Mono
 - AXIS
+- Barlow
 - Basier Circle
 - Basier Square
+- Bebas Neue
 - BigJohn / SlimJoe
 - BigJohn Pro
+- Calling Code
 - Cantarell
 - Casa Stencil
 - Charlevoix Pro
 - Choplin
 - Chronos Serif
 - Circular Std
+- Code Saver
 - College Stencil
 - Coves
 - Draft B
@@ -60,6 +65,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Gidole
 - Gilroy
 - Gotham
+- Grafier
 - Gravity
 - Hack
 - Handel Gothic
@@ -67,6 +73,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - HK Nova
 - HK Super
 - IBM Plex
+- Inconsolata
 - Input
 - Inter UI 2.5
 - Inter UI 3.1
@@ -101,6 +108,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Nexa
 - Noto Sans
 - Noto Serif
+- Now
 - Object Sans
 - Objectivity
 - Office Code Pro
@@ -126,6 +134,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Quicksand
 - Radio Grotesk
 - Radnika
+- Radnika Next
 - Roboto
 - Roboto Mono
 - Samsung Sharp Sans
