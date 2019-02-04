@@ -1,0 +1,60 @@
+languagesystem DFLT dflt;
+
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    pos \A \G -50;
+    pos \F \A -106;
+    pos \R \Y -61;
+    pos \T \A -76;
+} kernHorizontalKerninglookup0;
+
+lookup pos_pair_kern_0 {
+  lookupflag 0;
+    pos \A \G -50;
+    pos \F \A -106;
+    pos \R \Y -61;
+    pos \T \A -76;
+} pos_pair_kern_0;
+
+lookup pos_pair_kern_2 {
+  lookupflag 0;
+    pos \A \G -50;
+    pos \F \A -106;
+    pos \R \Y -61;
+    pos \T \A -76;
+} pos_pair_kern_2;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+      lookup pos_pair_kern_0;
+      lookup pos_pair_kern_2;
+} kern;
+
+@GDEF_Simple = [\A \AE \Aacute \Acircumflex \Adieresis \Agrave \Aring \Atilde \B \C 
+	\Ccedilla \D \E \Eacute \Ecircumflex \Edieresis \Egrave \Euro \F \G \H \I \Iacute 
+	\Icircumflex \Idieresis \Igrave \J \K \L \M \N \Ntilde \O \OE \Oacute \Ocircumflex 
+	\Odieresis \Ograve \Otilde \P \Q \R \S \T \U \Uacute \Ucircumflex \Udieresis \Ugrave 
+	\V \W \X \Y \Yacute \Ydieresis \Z \a \aacute \acircumflex \acute \acute.uc 
+	\adieresis \ae \agrave \ampersand \aring \at \atilde \b \c \ccedilla \cedilla 
+	\cedilla.uc \circumflex \circumflex.uc \colon \comma \d \dieresis \dieresis.uc 
+	\dollar \dotlessi \e \eacute \ecircumflex \edieresis \egrave \eight \exclam \f 
+	\five \four \g \grave \grave.uc \guillemotleft \guillemotright \h \hyphen \i 
+	\iacute \icircumflex \idieresis \igrave \j \k \l \m \n \nine \ntilde \o \oacute 
+	\ocircumflex \odieresis \oe \ograve \one \otilde \p \parenleft \parenright 
+	\period \q \question \quotedblleft \quotedblright \quoteleft \quoteright \r 
+	\ring \ring.uc \s \semicolon \seven \six \slash \space \t \three \tilde \tilde.uc 
+	\two \u \uacute \ucircumflex \udieresis \ugrave \v \w \x \y \yacute \ydieresis \z 
+	\zero ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

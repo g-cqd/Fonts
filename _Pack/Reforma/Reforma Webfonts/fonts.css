@@ -1,0 +1,225 @@
+/* Webfont: Reforma 1918 Blanca */@font-face {
+    font-family: 'Reforma1918';
+    src: url('Reforma1918/Reforma1918-Blanca.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1918/Reforma1918-Blanca.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1918/Reforma1918-Blanca.eot') format('woff'),
+         url('Reforma1918/Reforma1918-Blanca.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma 1918 BlancaItalica */@font-face {
+    font-family: 'Reforma1918';
+    src: url('Reforma1918/Reforma1918-BlancaItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1918/Reforma1918-BlancaItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1918/Reforma1918-BlancaItalica.eot') format('woff'),
+         url('Reforma1918/Reforma1918-BlancaItalica.ttf') format('truetype');     /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1918 Gris */@font-face {
+    font-family: 'Reforma1918';
+    src: url('Reforma1918/Reforma1918-Gris.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1918/Reforma1918-Gris.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1918/Reforma1918-Gris.eot') format('woff'),
+         url('Reforma1918/Reforma1918-Gris.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1918 GrisItalica */@font-face {
+    font-family: 'Reforma1918';
+    src: url('Reforma1918/Reforma1918-GrisItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1918/Reforma1918-GrisItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1918/Reforma1918-GrisItalica.eot') format('woff'),
+         url('Reforma1918/Reforma1918-GrisItalica.ttf') format('truetype');   /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1918 Negra */@font-face {
+    font-family: 'Reforma1918';
+    src: url('Reforma1918/Reforma1918-Negra.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1918/Reforma1918-Negra.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1918/Reforma1918-Negra.eot') format('woff'),
+         url('Reforma1918/Reforma1918-Negra.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1918 NegraItalica */@font-face {
+    font-family: 'Reforma1918';
+    src: url('Reforma1918/Reforma1918-NegraItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1918/Reforma1918-NegraItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1918/Reforma1918-NegraItalica.eot') format('woff'),
+         url('Reforma1918/Reforma1918-NegraItalica.ttf') format('truetype');  /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+
+/*========*/
+
+/* Webfont: Reforma1969 Blanca */@font-face {
+    font-family: 'Reforma1969';
+    src: url('Reforma1969/Reforma1969-Blanca.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1969/Reforma1969-Blanca.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1969/Reforma1969-Blanca.eot') format('woff'),
+         url('Reforma1969/Reforma1969-Blanca.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1969 BlancaItalica */@font-face {
+    font-family: 'Reforma1969';
+    src: url('Reforma1969/Reforma1969-BlancaItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1969/Reforma1969-BlancaItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1969/Reforma1969-BlancaItalica.eot') format('woff'),
+         url('Reforma1969/Reforma1969-BlancaItalica.ttf') format('truetype');     /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1969 Gris */@font-face {
+    font-family: 'Reforma1969';
+    src: url('Reforma1969/Reforma1969-Gris.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1969/Reforma1969-Gris.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1969/Reforma1969-Gris.eot') format('woff'),
+         url('Reforma1969/Reforma1969-Gris.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1969 GrisItalica */@font-face {
+    font-family: 'Reforma1969';
+    src: url('Reforma1969/Reforma1969-GrisItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1969/Reforma1969-GrisItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1969/Reforma1969-GrisItalica.eot') format('woff'),
+         url('Reforma1969/Reforma1969-GrisItalica.ttf') format('truetype');     /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1969 Negra */@font-face {
+    font-family: 'Reforma1969';
+    src: url('Reforma1969/Reforma1969-Negra.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1969/Reforma1969-Negra.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1969/Reforma1969-Negra.eot') format('woff'),
+         url('Reforma1969/Reforma1969-Negra.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma1969 NegraItalica */@font-face {
+    font-family: 'Reforma1969';
+    src: url('Reforma1969/Reforma1969-NegraItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma1969/Reforma1969-NegraItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma1969/Reforma1969-NegraItalica.eot') format('woff'),
+         url('Reforma1969/Reforma1969-NegraItalica.ttf') format('truetype');     /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+/*========*/
+
+/* Webfont: Reforma2018 Blanca */@font-face {
+    font-family: 'Reforma2018';
+    src: url('Reforma2018/Reforma2018-Blanca.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma2018/Reforma2018-Blanca.woff') format('woff'), /* Modern Browsers */
+         url('Reforma2018/Reforma2018-Blanca.eot') format('woff'),
+         url('Reforma2018/Reforma2018-Blanca.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: Reforma2018 BlancaItalica */@font-face {
+    font-family: 'Reforma2018';
+    src: url('Reforma2018/Reforma2018-BlancaItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma2018/Reforma2018-BlancaItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma2018/Reforma2018-BlancaItalica.eot') format('woff'),
+         url('Reforma2018/Reforma2018-BlancaItalica.ttf') format('truetype');     /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma2018 Gris */@font-face {
+    font-family: 'Reforma2018';
+    src: url('Reforma2018/Reforma2018-Gris.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma2018/Reforma2018-Gris.woff') format('woff'), /* Modern Browsers */
+         url('Reforma2018/Reforma2018-Gris.eot') format('woff'),
+         url('Reforma2018/Reforma2018-Gris.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma2018 GrisItalica */@font-face {
+    font-family: 'Reforma2018';
+    src: url('Reforma2018/Reforma2018-GrisItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma2018/Reforma2018-GrisItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma2018/Reforma2018-GrisItalica.eot') format('woff'),
+         url('Reforma2018/Reforma2018-GrisItalica.ttf') format('truetype');     /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma2018 Negra */@font-face {
+    font-family: 'Reforma2018';
+    src: url('Reforma2018/Reforma2018-Negra.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma2018/Reforma2018-Negra.woff') format('woff'), /* Modern Browsers */
+         url('Reforma2018/Reforma2018-Negra.eot') format('woff'),
+         url('Reforma2018/Reforma2018-Negra.ttf') format('truetype');	 /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma2018 NegraItalica */@font-face {
+    font-family: 'Reforma2018';
+    src: url('Reforma2018/Reforma2018-NegraItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma2018/Reforma2018-NegraItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma2018/Reforma2018-NegraItalica.eot') format('woff'),
+         url('Reforma2018/Reforma2018-NegraItalica.ttf') format('truetype');     /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma2018 UltraNegra */@font-face {
+    font-family: 'Reforma2018';
+    src: url('Reforma2018/Reforma2018-UltraNegra.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma2018/Reforma2018-UltraNegra.woff') format('woff'), /* Modern Browsers */
+         url('Reforma2018/Reforma2018-UltraNegra.eot') format('woff'),
+         url('Reforma2018/Reforma2018-UltraNegra.ttf') format('truetype');  /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 900;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Reforma2018 UltraNegraItalica */@font-face {
+    font-family: 'Reforma2018';
+    src: url('Reforma2018/Reforma2018-UltraNegraItalica.woff2') format('woff2'), /* /* Super Modern Browsers */
+         url('Reforma2018/Reforma2018-UltraNegraItalica.woff') format('woff'), /* Modern Browsers */
+         url('Reforma2018/Reforma2018-UltraNegraItalica.eot') format('woff'),
+         url('Reforma2018/Reforma2018-UltraNegraItalica.ttf') format('truetype');     /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: 900;
+    text-rendering: optimizeLegibility;
+}

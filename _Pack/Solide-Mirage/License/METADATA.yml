@@ -1,0 +1,18 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Solide Mirage
+  tags:
+  - serif
+  - didone
+  - monospaced
+  - contrast
+  - ornaments
+  repository url: https://github.com/studiotriple/solide-mirage
+  project url: http://studiotriple.fr/
+  tools:
+  - Robofont
+  similar fonts:
+  sample text: The quick brown fox jumps over the lazy dog
+...

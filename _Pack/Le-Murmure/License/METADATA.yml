@@ -1,0 +1,19 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Le Murmure
+  tags:
+  - sans
+  - condensed
+  - titling
+  - contrast
+  - magazine
+  repository url: https://gitlab.com/studiotriple/murmure
+  project url: http://studiotriple.fr/
+  tools:
+  - Robofont
+  - Metrics Machine
+  similar fonts:
+  sample text: The quick brown fox jumps over the lazy dog
+...

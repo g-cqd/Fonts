@@ -1,0 +1,609 @@
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <title>VTF Lack</title>
+    <style type="text/css" media="screen">
+        @font-face { font-family: 'Lack-Regular'; src: url('Lack-Regular.woff'); }
+        @font-face { font-family: 'Lack-Italic'; src: url('Lack-Italic.woff'); }
+        @font-face { font-family: 'Lack-Line-Regular'; src: url('Lack-Line-Regular.woff'); }
+        @font-face { font-family: 'Lack-Line-Italic'; src: url('Lack-Line-Italic.woff'); }
+
+        html, body {
+          width:100%;
+          height:100%;
+ margin: 0;
+ padding: 0;
+ }
+        body {
+
+          background-color: black;
+          -moz-font-feature-settings:"kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+-ms-font-feature-settings:"kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+-o-font-feature-settings:"kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+-webkit-font-feature-settings:"kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+font-feature-settings:"kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1;
+
+
+        }
+
+        [contenteditable="true"]:focus {
+  display:block;
+  color: blue;
+  font-family: courier, sans-serif;
+  background: #fff;
+  position:relative;
+  outline: none;
+  }
+
+        section.main {background-color: #FFF; max-width: 80%; width: 100%; margin: 50px auto; padding: 3rem 0}
+
+        .cblueits p {color: white; letter-spacing: 0rem; line-height: 1rem; font-size: 70%; margin-bottom: 4rem}
+
+        a, a:hover, a:focus, a:visited {color:blue; text-decoration: none; outline: none !important}
+        .rotating a,   .rotating a:hover,   .rotating a:focus,   .rotating a:visited {color:white; text-decoration: none; outline: none !important}
+        div:last-child {margin-bottom: 100px; text-align: center;}
+          h1 { font-size: 6rem;
+            line-height: 5rem;
+            padding: 4rem auto 0rem;
+            font-family: "Lack-Regular";
+            display: block;
+            text-align: center;
+
+          }
+
+        p {margin: 0px auto 20px; width: 80%; word-wrap: break-word; text-align: center; letter-spacing: 0.5rem; display: block;}
+        @media all and (max-width:500px){
+          p {margin: 0px auto 20px; max-width: 90%; width: 100%; word-wrap: break-word; text-align: center; letter-spacing: 0.5rem;}
+
+        }
+        #Reg { font-size: 2rem; font-family: "Lack-Regular";  margin-top: 5rem }
+        #Ital { font-size: 2rem; font-family: "Lack-Italic"; border-top: 2px solid blue; margin-top: 5rem }
+        #Reg-Inl { font-size: 2rem; font-family: "Lack-Line-Regular"; border-top: 2px solid blue; margin-top: 5rem  }
+        #Ital-Inl { font-size: 2rem; font-family: "Lack-Line-Italic"; border-top: 2px solid blue; margin-top: 5rem  }
+
+
+        @-webkit-keyframes rotating {
+      from{
+          -webkit-transform: rotate(0deg);
+          transform-origin: center;
+      }
+      to{
+          -webkit-transform: rotate(360deg);
+          transform-origin: center;
+      }
+  }
+
+  .rotating {
+      -webkit-animation: rotating 2s linear infinite;
+      max-width: 300px;
+width: 100%;
+margin: 50px auto 0px;
+padding: 4rem ;
+color:blue;
+color: white;
+  }
+
+  span.big {display: block; margin: 2rem auto 0.5rem; font-size: 100%; letter-spacing: 0rem; color: Black}
+
+  span.sub {display: block; margin: 2rem auto 0.5rem; font-size: 80%; letter-spacing: 0rem; color: blue}
+
+  span.spec {font-size: 60%; display: block; margin: 20px auto 5px; letter-spacing: 0rem}
+
+
+
+  .alt { -moz-font-feature-settings: "salt";
+    -webkit-font-feature-settings: "salt";
+    font-feature-settings: "salt";
+  }
+
+.alt-2 {
+  -moz-font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss02" 1;
+  -ms-font-feature-settings: "pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss02" 1;
+  -o-font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss02" 1;
+  -webkit-font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss02" 1;
+  font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss02" 1;
+}
+
+.alt-3 { -moz-font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss03" 1;
+-ms-font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss03" 1;
+-o-font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss03" 1;
+-webkit-font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss03" 1;
+font-feature-settings:"pnum" 1, "frac" 1, "zero" 1, "nalt" 1, "kern" 1, "liga" 1, "dlig" 1, "hlig" 1, "clig" 1, "calt" 1, "hist" 1, "ss03" 1;
+}
+
+.tnum{-moz-font-feature-settings:"tnum" 1;
+-ms-font-feature-settings:"tnum" 1;
+-o-font-feature-settings:"tnum" 1;
+-webkit-font-feature-settings:"tnum" 1;
+font-feature-settings:"tnum" 1;
+}
+
+.old {
+  -moz-font-feature-settings:"onum" 1;
+  -ms-font-feature-settings:"onum" 1;
+  -o-font-feature-settings:"onum" 1;
+  -webkit-font-feature-settings:"onum" 1;
+  font-feature-settings:"onum" 1;
+}
+
+
+
+
+    </style>
+</head>
+<body>
+
+
+
+    <div>
+      <h1 class="rotating">
+        <a href="http://velvetyne.fr/fonts/lack/" target="_blank">
+          VTF<br/>
+        Lack
+        </a>
+    </div>
+
+
+<section class="main" contenteditable="true">
+  <p id="Reg" style="letter-spacing:0rem; margin-top:2rem; font-size:6rem">Compose…</p>
+</section>
+
+    <section class="main" contenteditable="true">
+
+
+
+      <p id="Reg">
+
+        <span class="big">Latin</span>
+
+
+<span class="sub">Default</span>
+
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+aáăâäàāąåãæbcćčçċdðďđeéěêëėèēęfgğġģhħiíîïìīįıijkķlĺľŀłļmnńňŋñņoóôöòőōøõœpþqrŕřŗsśšşșßtŧťţțuúûüùűūųůvwẃŵẅẁxyýŷÿỳzźžż
+</br/>ffffifflﬁﬂªº
+
+<span class="big">Greek</span>
+ΑΒΓΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΆΈΉΊΌΎΏΪΫαβγδεζηθικλνξοπρστυφχψωίϊΐύϋΰόώάέή
+
+<span class="big">Cyrillic</span>
+АБВГЃҐДЕЀЁЖЗИЙЍКЌЛМНОПРСТУЎФХЧЦШЩЏЬЪЫЉЊЅЄЭІЇЈЋЮЯЂѢѲѴҒҔҖҘҚҜҞҠҢҤҦԤҨҪҬҮҰҲҴҶҸҺԦҼҾӀӁӃӅӇӉӋӍӐӒӔӖӘӚӜӞӠӢӤӦӨӪӬӮӰӲӴӶӸӼԐԒԜBGR абвгѓґдеѐёжзийѝкќлмнопрстуўфхчцшщџьъыљњѕєэіїјћюяђѣѳѵғҕҗҙқҝҟҡңҥԥҧҩҫҭүұҳҵҷҹһԧҽҿӏӂӄӆӈӊӌӎӑӓӕӗәӛӝӟӡӣӥӧөӫӭӯӱӳӵӷӹӽԑԓԝ
+
+<span class="sub">Alternate</span>
+
+<span class="alt">
+aáăâäàāąåãgğġíîïìīrŕři₽
+</span>
+
+<span class="sub">O.V.N.I-1</span>
+<span class="alt-2">
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+0123456789
+</span>
+
+<span class="sub">O.V.N.I-2</span>
+<span class="alt-3">
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+0123456789
+</span>
+
+
+<span class="sub">Figures</span>
+
+<span class="">
+  <span class="spec">
+Proportional
+</span>
+  0123456789
+</span>
+<span class="tnum">
+  <span class="spec">
+Tabular
+</span>
+  0123456789
+</span>
+<span class="old">
+  <span class="spec">
+Old Style + Proportional
+</span>
+  123456789
+</span>
+<span class="old tnum">
+  <span class="spec">
+Old Style + Tabular
+</span>
+  0123456789
+</span>
+
+<span class="sub">Fractions</span>
+
+½¼¾
+
+<span class="sub">Punctuations</span>
+
+.,:;…!¡?¿·•*#//\?¿(){}[]-–—_‚„“”‘’‹›»’
+
+<span class="sub">Currencies</span>
+
+¢¤ƒ€₽$£¥
+
+<span class="sub">Mathematic</span>
+
++−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰◊
+
+<span class="sub">Symbols</span>
+
+@&¶§©®™°|¦†‡&
+
+<span class="sub">Diacritics</span>
+
+ ̀ ́  ̃´˘ˇ¸ˆ¨˙`˝¯˛˚˜
+
+ <span class="sub">Other</span>
+ΔΩμς
+¹²³­«»;µ
+
+<span class="sub">Arrows</span>
+
+↑↗→↘↓↙←↖↔↕
+
+
+      </p>
+
+<!-- Italic -->
+
+<p id="Ital">
+
+  <span class="big">Latin</span>
+
+
+<span class="sub">Default</span>
+
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+aáăâäàāąåãæbcćčçċdðďđeéěêëėèēęfgğġģhħiíîïìīįıijkķlĺľŀłļmnńňŋñņoóôöòőōøõœpþqrŕřŗsśšşșßtŧťţțuúûüùűūųůvwẃŵẅẁxyýŷÿỳzźžż
+</br/>ffffifflﬁﬂªº
+
+<span class="big">Greek</span>
+ΑΒΓΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΆΈΉΊΌΎΏΪΫαβγδεζηθικλνξοπρστυφχψωίϊΐύϋΰόώάέή
+
+<span class="big">Cyrillic</span>
+АБВГЃҐДЕЀЁЖЗИЙЍКЌЛМНОПРСТУЎФХЧЦШЩЏЬЪЫЉЊЅЄЭІЇЈЋЮЯЂѢѲѴҒҔҖҘҚҜҞҠҢҤҦԤҨҪҬҮҰҲҴҶҸҺԦҼҾӀӁӃӅӇӉӋӍӐӒӔӖӘӚӜӞӠӢӤӦӨӪӬӮӰӲӴӶӸӼԐԒԜBGR абвгѓґдеѐёжзийѝкќлмнопрстуўфхчцшщџьъыљњѕєэіїјћюяђѣѳѵғҕҗҙқҝҟҡңҥԥҧҩҫҭүұҳҵҷҹһԧҽҿӏӂӄӆӈӊӌӎӑӓӕӗәӛӝӟӡӣӥӧөӫӭӯӱӳӵӷӹӽԑԓԝ
+
+<span class="alt">
+aáăâäàāąåãgğġíîïìīrŕři
+</span>
+
+<span class="sub">O.V.N.I-1</span>
+<span class="alt-2">
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+0123456789
+</span>
+
+<span class="sub">O.V.N.I-2</span>
+<span class="alt-3">
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+0123456789
+</span>
+
+
+<span class="sub">Figures</span>
+
+<span class="">
+<span class="spec">
+Proportional
+</span>
+0123456789
+</span>
+<span class="tnum">
+<span class="spec">
+Tabular
+</span>
+0123456789
+</span>
+<span class="old">
+<span class="spec">
+Old Style + Proportional
+</span>
+123456789
+</span>
+<span class="old tnum">
+<span class="spec">
+Old Style + Tabular
+</span>
+0123456789
+</span>
+
+<span class="sub">Fractions</span>
+
+½¼¾
+
+<span class="sub">Punctuations</span>
+
+.,:;…!¡?¿·•*#//\?¿(){}[]-–—_‚„“”‘’‹›»’
+
+<span class="sub">Currencies</span>
+
+¢¤ƒ€₽₽$£¥
+
+<span class="sub">Mathematic</span>
+
++−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰◊
+
+<span class="sub">Symbols</span>
+
+@&¶§©®™°|¦†‡&
+
+<span class="sub">Diacritics</span>
+
+̀ ́  ̃´˘ˇ¸ˆ¨˙`˝¯˛˚˜
+
+<span class="sub">Other</span>
+ΔΩμς
+¹²³­«»;µ
+
+<span class="sub">Arrows</span>
+
+↑↗→↘↓↙←↖↔↕
+
+
+</p>
+
+
+<!-- Reg Line -->
+
+<p id="Reg-Inl">
+
+  <span class="big">Latin</span>
+
+
+<span class="sub">Default</span>
+
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+aáăâäàāąåãæbcćčçċdðďđeéěêëėèēęfgğġģhħiíîïìīįıijkķlĺľŀłļmnńňŋñņoóôöòőōøõœpþqrŕřŗsśšşșßtŧťţțuúûüùűūųůvwẃŵẅẁxyýŷÿỳzźžż
+</br/>ffffifflﬁﬂªº
+
+<span class="big">Greek</span>
+ΑΒΓΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΆΈΉΊΌΎΏΪΫαβγδεζηθικλνξοπρστυφχψωίϊΐύϋΰόώάέή
+
+<span class="big">Cyrillic</span>
+АБВГЃҐДЕЀЁЖЗИЙЍКЌЛМНОПРСТУЎФХЧЦШЩЏЬЪЫЉЊЅЄЭІЇЈЋЮЯЂѢѲѴҒҔҖҘҚҜҞҠҢҤҦԤҨҪҬҮҰҲҴҶҸҺԦҼҾӀӁӃӅӇӉӋӍӐӒӔӖӘӚӜӞӠӢӤӦӨӪӬӮӰӲӴӶӸӼԐԒԜBGR абвгѓґдеѐёжзийѝкќлмнопрстуўфхчцшщџьъыљњѕєэіїјћюяђѣѳѵғҕҗҙқҝҟҡңҥԥҧҩҫҭүұҳҵҷҹһԧҽҿӏӂӄӆӈӊӌӎӑӓӕӗәӛӝӟӡӣӥӧөӫӭӯӱӳӵӷӹӽԑԓԝ
+
+<span class="alt">
+aáăâäàāąåãgğġíîïìīrŕři
+</span>
+
+<span class="sub">O.V.N.I-1</span>
+<span class="alt-2">
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+0123456789
+</span>
+
+<span class="sub">O.V.N.I-2</span>
+<span class="alt-3">
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+0123456789
+</span>
+
+
+<span class="sub">Figures</span>
+
+<span class="">
+<span class="spec">
+Proportional
+</span>
+0123456789
+</span>
+<span class="tnum">
+<span class="spec">
+Tabular
+</span>
+0123456789
+</span>
+<span class="old">
+<span class="spec">
+Old Style + Proportional
+</span>
+123456789
+</span>
+<span class="old tnum">
+<span class="spec">
+Old Style + Tabular
+</span>
+0123456789
+</span>
+
+<span class="sub">Fractions</span>
+
+½¼¾
+
+<span class="sub">Punctuations</span>
+
+.,:;…!¡?¿·•*#//\?¿(){}[]-–—_‚„“”‘’‹›»’
+
+<span class="sub">Currencies</span>
+
+¢¤ƒ€₽₽$£¥
+
+<span class="sub">Mathematic</span>
+
++−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰◊
+
+<span class="sub">Symbols</span>
+
+@&¶§©®™°|¦†‡&
+
+<span class="sub">Diacritics</span>
+
+̀ ́  ̃´˘ˇ¸ˆ¨˙`˝¯˛˚˜
+
+<span class="sub">Other</span>
+ΔΩμς
+¹²³­«»;µ
+
+<span class="sub">Arrows</span>
+
+↑↗→↘↓↙←↖↔↕
+
+
+</p>
+
+
+
+<!-- Ital Line -->
+
+<p id="Ital-Inl">
+
+  <span class="big">Latin</span>
+
+
+<span class="sub">Default</span>
+
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+aáăâäàāąåãæbcćčçċdðďđeéěêëėèēęfgğġģhħiíîïìīįıijkķlĺľŀłļmnńňŋñņoóôöòőōøõœpþqrŕřŗsśšşșßtŧťţțuúûüùűūųůvwẃŵẅẁxyýŷÿỳzźžż
+</br/>ffffifflﬁﬂªº
+
+<span class="big">Greek</span>
+ΑΒΓΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΆΈΉΊΌΎΏΪΫαβγδεζηθικλνξοπρστυφχψωίϊΐύϋΰόώάέή
+
+<span class="big">Cyrillic</span>
+АБВГЃҐДЕЀЁЖЗИЙЍКЌЛМНОПРСТУЎФХЧЦШЩЏЬЪЫЉЊЅЄЭІЇЈЋЮЯЂѢѲѴҒҔҖҘҚҜҞҠҢҤҦԤҨҪҬҮҰҲҴҶҸҺԦҼҾӀӁӃӅӇӉӋӍӐӒӔӖӘӚӜӞӠӢӤӦӨӪӬӮӰӲӴӶӸӼԐԒԜBGR абвгѓґдеѐёжзийѝкќлмнопрстуўфхчцшщџьъыљњѕєэіїјћюяђѣѳѵғҕҗҙқҝҟҡңҥԥҧҩҫҭүұҳҵҷҹһԧҽҿӏӂӄӆӈӊӌӎӑӓӕӗәӛӝӟӡӣӥӧөӫӭӯӱӳӵӷӹӽԑԓԝ
+
+<span class="alt">
+aáăâäàāąåãgğġíîïìīrŕři
+</span>
+
+<span class="sub">O.V.N.I-1</span>
+<span class="alt-2">
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+0123456789
+</span>
+
+<span class="sub">O.V.N.I-2</span>
+<span class="alt-3">
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠĢHĦIÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇŊÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞȘTŦŤŢȚUÚÛÜÙŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
+0123456789
+</span>
+
+
+<span class="sub">Figures</span>
+
+<span class="">
+<span class="spec">
+Proportional
+</span>
+0123456789
+</span>
+<span class="tnum">
+<span class="spec">
+Tabular
+</span>
+0123456789
+</span>
+<span class="old">
+<span class="spec">
+Old Style + Proportional
+</span>
+123456789
+</span>
+<span class="old tnum">
+<span class="spec">
+Old Style + Tabular
+</span>
+0123456789
+</span>
+
+<span class="sub">Fractions</span>
+
+½¼¾
+
+<span class="sub">Punctuations</span>
+
+.,:;…!¡?¿·•*#//\?¿(){}[]-–—_‚„“”‘’‹›»’
+
+<span class="sub">Currencies</span>
+
+¢¤ƒ€₽₽$£¥
+
+<span class="sub">Mathematic</span>
+
++−×÷=≠><≥≤±≈~¬^∞∫∏∑√∂%‰◊
+
+<span class="sub">Symbols</span>
+
+@&¶§©®™°|¦†‡&
+
+<span class="sub">Diacritics</span>
+
+̀ ́  ̃´˘ˇ¸ˆ¨˙`˝¯˛˚˜
+
+<span class="sub">Other</span>
+ΔΩμς
+¹²³­«»;µ
+
+<span class="sub">Arrows</span>
+
+↑↗→↘↓↙←↖↔↕
+
+
+</p>
+
+</section>
+
+
+<div style="position: relative;
+max-width: 400px;
+margin: 20px auto;
+text-align: center;
+width: 100%;
+display: inherit;
+padding:2rem 0rem;
+background-color:white">
+
+<span id="Reg"style="color:blue; text-aligncenter; margin:20px auto; width:100%">
+  <a href="http://velvetyne.fr/news/the-short-but-real-vtf-lack-story/" target="_blank">READ THE STORY</a>
+</span>
+</div>
+
+<div style="position: relative;
+max-width: 400px;
+margin: 20px auto;
+text-align: center;
+width: 100%;
+display: inherit;
+padding:2rem 0rem;
+background-color:white">
+
+<span id="Reg"style="color:blue; text-aligncenter; margin:0px auto;width:100%">
+  <a href="http://velvetyne.fr/fonts/lack/" target="_blank">TRY IT</a>
+</span>
+</div>
+
+<div style="position: relative;
+max-width: 400px;
+margin: 0px auto;
+text-align: center;
+width: 100%;
+display: inherit;
+padding:2rem 0rem;
+background-color:white">
+
+<span id="Reg"style="color:blue; text-aligncenter; margin:0px auto;width:100%">
+  <a href="http://velvetyne.fr/fonts/lack/" target="_blank">DOWNLOAD</a>
+</span>
+</div>
+
+
+<section id="Reg" class="Cblueits">
+
+<p style="line-height:2rem">
+  Design: <a href="http://www.adrienmidzic.fr" target="_blank" style="color:white; text-decoration:underline">Adrien Midzic</a> <br/>
+
+Typeface: VTF Lack<br/>
+
+<a href="https://github.com/adrien-midzic/Lack" target="_blank" style="color:white; text-decoration:underline">Git sources</a>
+</p>
+
+</section>
+</section>
+
+</body>

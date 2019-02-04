@@ -1,0 +1,18 @@
+# Reforma 
+
+Reforma es una tipografía a medida diseñada para la Universidad Nacional de Córdoba. La UNC encargó esta tipografía a PampaType como parte de las celebraciones por el centenario de la Reforma Universitaria, ocurrida en esa casa en 1918. En línea con la política nacional de educación pública argentina, libre y gratuita, la tipografía está disponible para todos bajo la licencia de Creative Commons BY-ND 4.0 Internacional. La licencia completa está disponible en: https://creativecommons.org/licenses/by-nd/4.0/deed.es
+
+© Copyright 2018 Universidad Nacional de Córdoba [AR]. Diseñada por Alejandro Lo Celso. Programada por Guido Ferreyra. PampaType font foundry.
+http://pampatype.com.
+
+
+# Registro de cambios
+
+Versión 1.000 (Roman and Italic) creada 24/04/2018 
+
+    Primer lanzamiento
+
+Versión 1.001 (Roman) creada 07/06/2018
+
+    Corrección de error en dieresis 
+

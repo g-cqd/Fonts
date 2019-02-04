@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Solide Mirage_Etroit';
+    src:    url('Etroit/Solide_Mirage-Etroit_web.eot');
+    src:    url('Etroit/Solide_Mirage-Etroit_web.eot?#iefix') format('embedded-opentype'),
+            url('Etroit/Solide_Mirage-Etroit_web.woff') format('woff'),
+            url('Etroit/Solide_Mirage-Etroit_web.woff2') format('woff2'),
+            url('Etroit/Solide_Mirage-Etroit_web.ttf') format('truetype'),
+            url('Etroit/Solide_Mirage-Etroit_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Solide Mirage';
+    src:    url('Mono/Solide_Mirage-Mono_web.eot');
+    src:    url('Mono/Solide_Mirage-Mono_web.eot?#iefix') format('embedded-opentype'),
+            url('Mono/Solide_Mirage-Mono_web.woff') format('woff'),
+            url('Mono/Solide_Mirage-Mono_web.woff2') format('woff2'),
+            url('Mono/Solide_Mirage-Mono_web.ttf') format('truetype'),
+            url('Mono/Solide_Mirage-Mono_web.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

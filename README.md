@@ -36,12 +36,16 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Apercu Pro
 - AO Mono
 - AXIS
+- Bagnard
+- Bagnard Sans
 - Barlow
 - Basier Circle
 - Basier Square
 - Bebas Neue
 - BigJohn / SlimJoe
 - BigJohn Pro
+- Bluu Next
+- Bodoni* : 11, 16, 24, 36, 48, 72, 96
 - Calling Code
 - Cantarell
 - Casa Stencil
@@ -51,14 +55,19 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Circular Std
 - Code Saver
 - College Stencil
+- Cotham Sans
 - Coves
 - Draft B
 - Familiar Pro
 - Fantasque Sans Mono
+- Faune
 - Fira Code
+- Fivo Sans Modern
 - Formula Condensed
+- FREEFATFONT
 - Frutiger Next Lt
 - Fuji
+- Garcia
 - Gellix [TRIAL]
 - Geomanist
 - Geometrica Sans
@@ -69,6 +78,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Gravity
 - Hack
 - Handel Gothic
+- Happy Times at the IKOB
 - HK Grotesk
 - HK Nova
 - HK Super
@@ -78,12 +88,16 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Inter UI 2.5
 - Inter UI 3.1
 - Inter UI 3.2
+- Inter 3.3
 - Intro
 - Iosevka 2.0.2
 - Jost
 - JT Leonor
 - Kayak
+- Konstant Grotesk
+- Lack
 - Lato
+- Le Murmure
 - League Mono
 - League Spartan
 - Less Sans
@@ -135,6 +149,8 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Radio Grotesk
 - Radnika
 - Radnika Next
+- Reforma : 1918, 1969, 2018
+- Roadiz Sans
 - Roboto
 - Roboto Mono
 - Samsung Sharp Sans
@@ -144,20 +160,27 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - SF Mono
 - SF Pro
 - SF Pro Icons
+- Solide Mirage
 - Sometype Mono
 - Source Code Pro
 - Source Sans Pro
 - Source Serif Pro
+- Soyuz Grotesk
 - Space Grotesk
+- Space Mono
+- Spectral
+- Sporting Grotesque
 - Stellar
 - Studio Pro
 - Studio Sans [DEMO]
 - Supply Mono
+- Syne
 - TTCommons
 - Ubuntu
 - Undeka
 - Vision
 - Wavehaus
 - Work Sans
+- Wremena
 - Zilla Slab
 - Zwizz

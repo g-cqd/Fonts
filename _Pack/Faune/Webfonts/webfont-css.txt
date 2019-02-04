@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Faune';
+    src:    url('eot/Faune-Display_Black.eot');
+    src:    url('eot/Faune-Display_Black.eot?#iefix') format('embedded-opentype'),
+            url('woff/Faune-Display_Black.woff') format('woff'),
+            url('woff2/Faune-Display_Black.woff2') format('woff2'),
+            url('ttf/Faune-Display_Black.ttf') format('truetype'),
+            url('svg/Faune-Display_Black.svg#svgFontName') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Faune';
+    src:    url('eot/Faune-Display_Bold_Italic.eot');
+    src:    url('eot/Faune-Display_Bold_Italic.eot?#iefix') format('embedded-opentype'),
+            url('woff/Faune-Display_Bold_Italic.woff') format('woff'),
+            url('woff2/Faune-Display_Bold_Italic.woff2') format('woff2'),
+            url('ttf/Faune-Display_Bold_Italic.ttf') format('truetype'),
+            url('svg/Faune-Display_Bold_Italic.svg#svgFontName') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Faune';
+    src:    url('eot/Faune-Display_Thin.eot');
+    src:    url('eot/Faune-Display_Thin.eot?#iefix') format('embedded-opentype'),
+            url('woff/Faune-Display_Thin.woff') format('woff'),
+            url('woff2/Faune-Display_Thin.woff2') format('woff2'),
+            url('ttf/Faune-Display_Thin.ttf') format('truetype'),
+            url('svg/Faune-Display_Thin.svg#svgFontName') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Faune';
+    src:    url('eot/Faune-Text_Bold.eot');
+    src:    url('eot/Faune-Text_Bold.eot?#iefix') format('embedded-opentype'),
+            url('woff/Faune-Text_Bold.woff') format('woff'),
+            url('woff2/Faune-Text_Bold.woff2') format('woff2'),
+            url('ttf/Faune-Text_Bold.ttf') format('truetype'),
+            url('svg/Faune-Text_Bold.svg#svgFontName') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Faune';
+    src:    url('eot/Faune-Text_Italic.eot');
+    src:    url('eot/Faune-Text_Italic.eot?#iefix') format('embedded-opentype'),
+            url('woff/Faune-Text_Italic.woff') format('woff'),
+            url('woff2/Faune-Text_Italic.woff2') format('woff2'),
+            url('ttf/Faune-Text_Italic.ttf') format('truetype'),
+            url('svg/Faune-Text_Italic.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Faune';
+    src:    url('eot/Faune-Text_Regular.eot');
+    src:    url('eot/Faune-Text_Regular.eot?#iefix') format('embedded-opentype'),
+            url('woff/Faune-Text_Regular.woff') format('woff'),
+            url('woff2/Faune-Text_Regular.woff2') format('woff2'),
+            url('ttf/Faune-Text_Regular.ttf') format('truetype'),
+            url('svg/Faune-Text_Regular.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
