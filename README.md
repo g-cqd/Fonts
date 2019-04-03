@@ -87,6 +87,10 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - HK Grotesk
 - HK Nova
 - HK Super
+- iA Writer Duo
+- iA Writer Duospace
+- iA Writer Mono
+- iA Writer Quattro
 - IBM Plex
 - Inconsolata
 - Input
