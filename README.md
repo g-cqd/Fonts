@@ -38,6 +38,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - AXIS
 - Bagnard
 - Bagnard Sans
+- Barbour
 - Barlow
 - Basier Circle
 - Basier Square
@@ -58,6 +59,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Cotham Sans
 - Coves
 - Draft B
+- Ethos
 - Familiar Pro
 - Fantasque Sans Mono
 - Faune
@@ -75,9 +77,12 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Gilroy
 - Gotham
 - Grafier
+- Grantipo Beta 001
+- Grantipo Beta 001 Updated
 - Gravity
 - Hack
 - Handel Gothic
+- Hanken Grotesk
 - Happy Times at the IKOB
 - HK Grotesk
 - HK Nova
@@ -89,6 +94,8 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Inter UI 3.1
 - Inter UI 3.2
 - Inter 3.3
+- Inter 3.4
+- Inter 3.5
 - Intro
 - Iosevka 2.0.2
 - Jost
@@ -108,6 +115,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Maison MG [TRIAL]
 - Maison Mono MG [TRIAL]
 - Manrope
+- Marques
 - Matter [TRIAL]
 - Minimal Mono
 - Mont
@@ -116,6 +124,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Moon 2
 - m+ (mplus)
 - Netflix Sans
+- Neue Machina [SAMPLE]
 - Neue Montreal
 - Neuzeit Grotesk
 - Neuzeit S LT Std
@@ -160,6 +169,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - SF Mono
 - SF Pro
 - SF Pro Icons
+- Sharis Serif
 - Solide Mirage
 - Sometype Mono
 - Source Code Pro
