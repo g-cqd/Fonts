@@ -22,6 +22,12 @@ I don't own any of fonts included here.
 Check rights and usage conditions of any font before use it publicly. I DO NOT RECOMMEND TO USE WITHOUT BEING SURE YOU CAN.
 
 
+## Some Fonts can have bugs
+
+### New Fonts
+- gibson
+and some others...
+
 ## Provided Fonts
 - Acari
 - Agane
@@ -35,6 +41,13 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Apercu
 - Apercu Pro
 - AO Mono
+- Apple San Francisco Compact Display
+- Apple San Francisco Compact Rounded
+- Apple San Francisco Compact Text
+- Apple San Francisco Mono
+- Apple San Francisco Pro Display
+- Apple San Francisco Pro Rounded
+- Apple San Francisco Pro Text
 - AXIS
 - Bagnard
 - Bagnard Sans
@@ -47,6 +60,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - BigJohn Pro
 - Bluu Next
 - Bodoni* : 11, 16, 24, 36, 48, 72, 96
+- Calibre
 - Calling Code
 - Cantarell
 - Casa Stencil
@@ -84,6 +98,8 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Handel Gothic
 - Hanken Grotesk
 - Happy Times at the IKOB
+- Hasklig
+- Helvetica New
 - HK Grotesk
 - HK Nova
 - HK Super
@@ -100,6 +116,8 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Inter 3.3
 - Inter 3.4
 - Inter 3.5
+- Inter 3.7
+- Inter 3.8
 - Intro
 - Iosevka 2.0.2
 - Jost
@@ -155,6 +173,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Pragmata Pro
 - Product Sans
 - PT Serif
+- Public Sans
 - Publica Sans
 - Qanelas
 - Qanelas Soft [DEMO]
@@ -192,6 +211,7 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - TTCommons
 - Ubuntu
 - Undeka
+- Untitled Sans
 - Vision
 - Wavehaus
 - Work Sans
