@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="2">
+	<advance width="430"/>
+	<unicode hex="201D"/>
+	<outline>
+		<component base="comma" xOffset="120" yOffset="579"/>
+		<component base="comma" xOffset="320" yOffset="579"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

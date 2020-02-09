@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0307"/>
+	<guideline x="172" y="661" angle="78.2"/>
+	<anchor x="-33" y="517" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-8" y="611" type="curve"/>
+			<point x="-8" y="611" type="line"/>
+			<point x="19" y="611"/>
+			<point x="46" y="637"/>
+			<point x="46" y="665" type="curve"/>
+			<point x="46" y="690"/>
+			<point x="28" y="710"/>
+			<point x="2" y="710" type="curve"/>
+			<point x="-28" y="710"/>
+			<point x="-53" y="683"/>
+			<point x="-53" y="656" type="curve"/>
+			<point x="-53" y="631"/>
+			<point x="-35" y="611"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

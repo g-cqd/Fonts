@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowercase_m_shoulder" format="2">
+	<advance width="477"/>
+	<guideline x="721" y="0" angle="0"/>
+	<anchor x="75" y="282" name="_shoulder"/>
+	<anchor x="406" y="282" name="shoulder"/>
+	<outline>
+		<contour>
+			<point x="163" y="0" type="curve"/>
+			<point x="163" y="0" type="line"/>
+			<point x="347" y="0" type="line"/>
+			<point x="413" y="318"/>
+			<point x="419" y="337"/>
+			<point x="419" y="365" type="curve"/>
+			<point x="419" y="461"/>
+			<point x="347" y="530"/>
+			<point x="250" y="530" type="curve"/>
+			<point x="165" y="530"/>
+			<point x="98" y="476"/>
+			<point x="80" y="388" type="curve"/>
+			<point x="78" y="293" type="line"/>
+			<point x="85" y="331"/>
+			<point x="129" y="370"/>
+			<point x="180" y="370" type="curve"/>
+			<point x="220" y="370"/>
+			<point x="226" y="345"/>
+			<point x="228" y="323" type="curve"/>
+			<point x="229" y="312"/>
+			<point x="210" y="227"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

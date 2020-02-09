@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ascender" format="2">
+	<advance width="238"/>
+	<anchor x="137" y="259" name="loop_right"/>
+	<anchor x="101" y="259" name="loop_left"/>
+	<anchor x="137" y="330" name="shoulder"/>
+	<anchor x="128" y="125" name="k_arms"/>
+	<outline>
+		<contour>
+			<point x="101" y="699" type="line"/>
+			<point x="101" y="0" type="line"/>
+			<point x="137" y="0" type="line"/>
+			<point x="137" y="699" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

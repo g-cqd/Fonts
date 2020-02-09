@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae_upper" format="2">
+	<advance width="434"/>
+	<anchor x="497" y="687" name="_ae_upper"/>
+	<outline>
+		<contour>
+			<point x="477" y="687" type="line"/>
+			<point x="-63" y="0" type="line"/>
+			<point x="-20" y="0" type="line"/>
+			<point x="519" y="687" type="line"/>
+		</contour>
+		<contour>
+			<point x="111" y="211" type="line"/>
+			<point x="104" y="175" type="line"/>
+			<point x="408" y="175" type="line"/>
+			<point x="415" y="211" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

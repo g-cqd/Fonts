@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_arms" format="2">
+	<advance width="393"/>
+	<anchor x="3" y="125" name="k_arms"/>
+	<outline>
+		<contour>
+			<point x="130" y="255" type="line"/>
+			<point x="329" y="0" type="line"/>
+			<point x="375" y="0" type="line"/>
+			<point x="155" y="280" type="line"/>
+			<point x="387" y="517" type="line"/>
+			<point x="337" y="517" type="line"/>
+			<point x="3" y="177" type="line"/>
+			<point x="3" y="125" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

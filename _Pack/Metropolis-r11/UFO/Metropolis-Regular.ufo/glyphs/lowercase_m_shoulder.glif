@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowercase_m_shoulder" format="2">
+	<advance width="444"/>
+	<anchor x="36" y="329" name="_shoulder"/>
+	<anchor x="370" y="329" name="shoulder"/>
+	<outline>
+		<contour>
+			<point x="295" y="319" type="curve"/>
+			<point x="295" y="0" type="line"/>
+			<point x="370" y="0" type="line"/>
+			<point x="370" y="329" type="line" smooth="yes"/>
+			<point x="370" y="446"/>
+			<point x="294" y="529"/>
+			<point x="186" y="529" type="curve"/>
+			<point x="94" y="529"/>
+			<point x="25" y="467"/>
+			<point x="20" y="379" type="curve"/>
+			<point x="36" y="329" type="line"/>
+			<point x="36" y="407"/>
+			<point x="94" y="462"/>
+			<point x="176" y="462" type="curve"/>
+			<point x="246" y="462"/>
+			<point x="295" y="403"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

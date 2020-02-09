@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowercase_r_shoulder" format="2">
+	<advance width="294"/>
+	<anchor x="80" y="288" name="_r_shoulder"/>
+	<outline>
+		<contour>
+			<point x="89" y="360" type="curve"/>
+			<point x="80" y="288" type="line"/>
+			<point x="106" y="407"/>
+			<point x="207" y="493"/>
+			<point x="324" y="493" type="curve"/>
+			<point x="329" y="529" type="line"/>
+			<point x="222" y="529"/>
+			<point x="113" y="471"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

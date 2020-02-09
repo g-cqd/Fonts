@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+	<advance width="353"/>
+	<unicode hex="2022"/>
+	<outline>
+		<contour>
+			<point x="177" y="178" type="curve"/>
+			<point x="177" y="178" type="line"/>
+			<point x="242" y="178"/>
+			<point x="296" y="232"/>
+			<point x="296" y="298" type="curve"/>
+			<point x="296" y="363"/>
+			<point x="242" y="417"/>
+			<point x="177" y="417" type="curve"/>
+			<point x="111" y="417"/>
+			<point x="57" y="363"/>
+			<point x="57" y="298" type="curve"/>
+			<point x="57" y="232"/>
+			<point x="111" y="178"/>
+		</contour>
+	</outline>
+</glyph>

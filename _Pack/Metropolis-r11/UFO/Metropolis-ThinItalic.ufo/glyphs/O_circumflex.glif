@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="2">
+	<advance width="858"/>
+	<unicode hex="00D4"/>
+	<outline>
+		<component base="O"/>
+		<component base="circumflex" xOffset="287" yOffset="170"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>circumflex</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

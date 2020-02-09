@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="capital_V" format="2">
+	<advance width="801"/>
+	<outline>
+		<contour>
+			<point x="640" y="687" type="line"/>
+			<point x="234" y="0" type="line"/>
+			<point x="456" y="0" type="line"/>
+			<point x="863" y="687" type="line"/>
+		</contour>
+		<contour>
+			<point x="116" y="687" type="line"/>
+			<point x="237" y="0" type="line"/>
+			<point x="453" y="0" type="line"/>
+			<point x="331" y="687" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

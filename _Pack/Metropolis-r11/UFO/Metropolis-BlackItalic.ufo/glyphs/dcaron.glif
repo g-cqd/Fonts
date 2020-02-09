@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+	<advance width="865"/>
+	<unicode hex="010F"/>
+	<outline>
+		<contour>
+			<point x="216" y="-12" type="curve"/>
+			<point x="216" y="-12" type="line"/>
+			<point x="380" y="-12"/>
+			<point x="498" y="148"/>
+			<point x="498" y="319" type="curve"/>
+			<point x="498" y="444"/>
+			<point x="423" y="529"/>
+			<point x="304" y="529" type="curve"/>
+			<point x="138" y="529"/>
+			<point x="18" y="369"/>
+			<point x="18" y="200" type="curve"/>
+			<point x="18" y="74"/>
+			<point x="94" y="-12"/>
+		</contour>
+		<contour>
+			<point x="286" y="148" type="curve"/>
+			<point x="286" y="148" type="line"/>
+			<point x="233" y="148"/>
+			<point x="202" y="176"/>
+			<point x="202" y="221" type="curve"/>
+			<point x="202" y="298"/>
+			<point x="273" y="369"/>
+			<point x="357" y="369" type="curve"/>
+			<point x="403" y="369"/>
+			<point x="431" y="342"/>
+			<point x="431" y="298" type="curve"/>
+			<point x="431" y="226"/>
+			<point x="366" y="148"/>
+		</contour>
+		<contour>
+			<point x="517" y="699" type="line"/>
+			<point x="372" y="0" type="line"/>
+			<point x="565" y="0" type="line"/>
+			<point x="710" y="699" type="line"/>
+		</contour>
+		<contour>
+			<point x="756" y="462" type="curve"/>
+			<point x="804" y="416" type="line"/>
+			<point x="870" y="463"/>
+			<point x="927" y="529"/>
+			<point x="927" y="605" type="curve"/>
+			<point x="927" y="660"/>
+			<point x="897" y="699"/>
+			<point x="850" y="699" type="curve"/>
+			<point x="804" y="699"/>
+			<point x="762" y="657"/>
+			<point x="762" y="607" type="curve"/>
+			<point x="762" y="566"/>
+			<point x="781" y="534"/>
+			<point x="829" y="534" type="curve"/>
+			<point x="812" y="510"/>
+			<point x="786" y="482"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

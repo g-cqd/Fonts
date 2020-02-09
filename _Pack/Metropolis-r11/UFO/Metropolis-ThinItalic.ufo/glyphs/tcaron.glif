@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+	<advance width="451"/>
+	<unicode hex="0165"/>
+	<anchor x="191" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="189" y="-12" type="curve"/>
+			<point x="189" y="-12" type="line"/>
+			<point x="221" y="-12"/>
+			<point x="258" y="-1"/>
+			<point x="290" y="20" type="curve"/>
+			<point x="273" y="51" type="line"/>
+			<point x="250" y="35"/>
+			<point x="220" y="24"/>
+			<point x="193" y="24" type="curve"/>
+			<point x="160" y="24"/>
+			<point x="140" y="50"/>
+			<point x="140" y="89" type="curve"/>
+			<point x="140" y="115"/>
+			<point x="145" y="126"/>
+			<point x="256" y="659" type="curve"/>
+			<point x="220" y="659" type="line"/>
+			<point x="111" y="135"/>
+			<point x="104" y="115"/>
+			<point x="104" y="84" type="curve"/>
+			<point x="104" y="27"/>
+			<point x="136" y="-12"/>
+		</contour>
+		<contour>
+			<point x="99" y="517" type="line"/>
+			<point x="92" y="481" type="line"/>
+			<point x="355" y="481" type="line"/>
+			<point x="362" y="517" type="line"/>
+		</contour>
+		<contour>
+			<point x="426" y="548" type="curve"/>
+			<point x="450" y="527" type="line"/>
+			<point x="506" y="586"/>
+			<point x="535" y="634"/>
+			<point x="535" y="669" type="curve"/>
+			<point x="535" y="688"/>
+			<point x="524" y="699"/>
+			<point x="507" y="699" type="curve"/>
+			<point x="488" y="699"/>
+			<point x="473" y="683"/>
+			<point x="473" y="664" type="curve"/>
+			<point x="473" y="649"/>
+			<point x="483" y="639"/>
+			<point x="499" y="640" type="curve"/>
+			<point x="485" y="612"/>
+			<point x="458" y="578"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

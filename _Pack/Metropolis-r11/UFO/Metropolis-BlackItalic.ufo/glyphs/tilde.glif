@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+	<advance width="421"/>
+	<unicode hex="02DC"/>
+	<anchor x="303" y="704" name="top"/>
+	<anchor x="264" y="517" name="_top"/>
+	<outline>
+		<contour>
+			<point x="357" y="571" type="curve"/>
+			<point x="357" y="571" type="line"/>
+			<point x="423" y="571"/>
+			<point x="464" y="609"/>
+			<point x="494" y="704" type="curve"/>
+			<point x="407" y="732" type="line"/>
+			<point x="396" y="704"/>
+			<point x="375" y="683"/>
+			<point x="349" y="683" type="curve"/>
+			<point x="329" y="683"/>
+			<point x="285" y="724"/>
+			<point x="225" y="724" type="curve"/>
+			<point x="158" y="724"/>
+			<point x="118" y="685"/>
+			<point x="88" y="590" type="curve"/>
+			<point x="174" y="563" type="line"/>
+			<point x="186" y="592"/>
+			<point x="206" y="612"/>
+			<point x="232" y="612" type="curve"/>
+			<point x="253" y="612"/>
+			<point x="295" y="571"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

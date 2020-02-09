@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descender" format="2">
+	<advance width="249"/>
+	<anchor x="87" y="259" name="loop_left"/>
+	<anchor x="162" y="259" name="loop_right"/>
+	<outline>
+		<contour>
+			<point x="87" y="517" type="line"/>
+			<point x="87" y="-172" type="line"/>
+			<point x="162" y="-172" type="line"/>
+			<point x="162" y="517" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

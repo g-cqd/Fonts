@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+	<advance width="170"/>
+	<unicode hex="02D9"/>
+	<anchor x="85" y="704" name="top"/>
+	<anchor x="85" y="0" name="bottom"/>
+	<anchor x="85" y="517" name="_top"/>
+	<outline>
+		<contour>
+			<point x="85" y="597" type="curve"/>
+			<point x="85" y="597" type="line"/>
+			<point x="110" y="597"/>
+			<point x="131" y="618"/>
+			<point x="131" y="643" type="curve"/>
+			<point x="131" y="667"/>
+			<point x="110" y="689"/>
+			<point x="85" y="689" type="curve"/>
+			<point x="59" y="689"/>
+			<point x="39" y="667"/>
+			<point x="39" y="643" type="curve"/>
+			<point x="39" y="618"/>
+			<point x="59" y="597"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

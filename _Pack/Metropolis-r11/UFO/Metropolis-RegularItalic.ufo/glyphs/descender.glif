@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descender" format="2">
+	<advance width="338"/>
+	<anchor x="132" y="260" name="loop_left"/>
+	<anchor x="205" y="253" name="loop_right"/>
+	<outline>
+		<contour>
+			<point x="185" y="517" type="line"/>
+			<point x="42" y="-172" type="line"/>
+			<point x="117" y="-172" type="line"/>
+			<point x="260" y="517" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

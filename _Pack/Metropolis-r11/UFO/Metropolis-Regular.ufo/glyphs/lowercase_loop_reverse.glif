@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowercase_loop_reverse" format="2">
+	<advance width="555"/>
+	<anchor x="470" y="259" name="_loop_left"/>
+	<outline>
+		<contour>
+			<point x="282" y="-12" type="curve"/>
+			<point x="282" y="-12" type="line"/>
+			<point x="419" y="-12"/>
+			<point x="509" y="100"/>
+			<point x="509" y="259" type="curve"/>
+			<point x="509" y="417"/>
+			<point x="419" y="529"/>
+			<point x="282" y="529" type="curve"/>
+			<point x="146" y="529"/>
+			<point x="44" y="417"/>
+			<point x="44" y="259" type="curve"/>
+			<point x="44" y="100"/>
+			<point x="146" y="-12"/>
+		</contour>
+		<contour>
+			<point x="296" y="55" type="curve"/>
+			<point x="296" y="55" type="line"/>
+			<point x="195" y="55"/>
+			<point x="123" y="140"/>
+			<point x="123" y="259" type="curve"/>
+			<point x="123" y="378"/>
+			<point x="195" y="462"/>
+			<point x="296" y="462" type="curve"/>
+			<point x="398" y="462"/>
+			<point x="470" y="378"/>
+			<point x="470" y="259" type="curve"/>
+			<point x="470" y="140"/>
+			<point x="398" y="55"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>
