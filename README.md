@@ -118,8 +118,14 @@ and some others...
 - Inter 3.5
 - Inter 3.7
 - Inter 3.8
+- Inter 3.9
+- Inter 3.10
+- Inter 3.11
+- Inter 3.12
 - Intro
 - Iosevka 2.0.2
+- JetBrains Mono 1.0.0
+- JetBrains Mono 1.0.2
 - Jost
 - JT Leonor
 - Kayak
@@ -139,6 +145,7 @@ and some others...
 - Manrope
 - Marques
 - Matter [TRIAL]
+- Metropolis
 - Minimal Mono
 - Mont
 - Monument Extended
