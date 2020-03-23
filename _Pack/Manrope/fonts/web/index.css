@@ -1,0 +1,59 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Manrope VF";
+  src: url("/fonts/variable/ManropeGX.ttf") format("truetype-variations");
+  font-style: normal;
+  font-weight: 200 800; }
+
+@font-face {
+  font-family: "Manrope";
+  src: url("/fonts/web/Manrope-ExtraBold.woff2") format("woff2"),
+  url("/fonts/ttf/Manrope-ExtraBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800; }
+@font-face {
+  font-family: "Manrope";
+  src: url("/fonts/web/Manrope-Bold.woff2") format("woff2"),
+  url("/fonts/ttf/Manrope-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700; }
+@font-face {
+  font-family: "Manrope";
+  src: url("/fonts/web/Manrope-SemiBold.woff2") format("woff2"),
+  url("/fonts/ttf/Manrope-SemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600; }
+@font-face {
+  font-family: "Manrope";
+  src: url("/fonts/web/Manrope-Medium.woff2") format("woff2"),
+  url("/fonts/ttf/Manrope-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500; }
+@font-face {
+  font-family: "Manrope";
+  src: url("/fonts/web/Manrope-Regular.woff2") format("woff2"),
+  url("/fonts/ttf/Manrope-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400; }
+@font-face {
+  font-family: "Manrope";
+  src: url("/fonts/web/Manrope-Light.woff2") format("woff2"),
+  url("/fonts/ttf/Manrope-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300; }
+@font-face {
+  font-family: "Manrope";
+  src: url("/fonts/web/Manrope-ExtraLight.woff2") format("woff2"),
+  url("/fonts/ttf/Manrope-ExtraLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 200; }
+body, html {
+  font-family: 'Manrope VF', Manrope, sans-serif;
+  font-weight: 500;
+  font-variation-settings: 'wght' 500;
+  font-variation-ligatures: normal;
+  font-feature-settings:'calt', 'liga'; }
+*,*:before,*:after {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased; }

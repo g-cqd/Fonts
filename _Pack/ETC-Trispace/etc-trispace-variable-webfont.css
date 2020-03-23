@@ -1,0 +1,30 @@
+/*ETC Anybody*/
+@font-face {
+	font-family: 'etc-trispace';
+	 src: url('ETCTrispaceVariable.woff2') format('woff2-variations'); 
+}
+
+/* 
+-- example for ultrabold, extended --
+h1 {
+font-family: 'etc-trispace';
+font-variation-settings: "wght" 800, "wdth" 200;
+}
+
+-- example for thin, condensed width --
+h2 {
+font-family: 'etc-trispace';
+font-variation-settings: "wght" 100, "wdth" 50;
+}
+
+-- example for regular, normal width
+h3 {
+font-family: 'etc-trispace';
+font-variation-settings: "wght" 360, "wdth" 90;
+}
+
+And so on. As you can see, font-variation-settings allows you to control:  
+• the "wght" controls the font-weight, from 100 (thin) to 900 (black)
+• the "wdth" controls the font-stretch (width), from 50 (condensed) to 200 (extended)
+
+*/

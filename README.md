@@ -24,10 +24,6 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 
 ## Some Fonts can have bugs
 
-### New Fonts
-- gibson
-and some others...
-
 ## Provided Fonts
 - Acari
 - Agane
@@ -64,6 +60,7 @@ and some others...
 - Calling Code
 - Cantarell
 - Casa Stencil
+- Cascadia
 - Charlevoix Pro
 - Choplin
 - Chronos Serif
@@ -72,7 +69,10 @@ and some others...
 - College Stencil
 - Cotham Sans
 - Coves
+- Domaine Display Narrow
+- Domaine Sans Display
 - Draft B
+- ETC Trispace
 - Ethos
 - Familiar Pro
 - Fantasque Sans Mono
@@ -80,6 +80,7 @@ and some others...
 - Fira Code
 - Fivo Sans Modern
 - Formula Condensed
+- Founders Grotesk
 - FREEFATFONT
 - Frutiger Next Lt
 - Fuji
@@ -99,7 +100,9 @@ and some others...
 - Hanken Grotesk
 - Happy Times at the IKOB
 - Hasklig
-- Helvetica New
+- Helvetica Now Display
+- Helvetica Now Micro [BUG]
+- Helvetica Now Text
 - HK Grotesk
 - HK Nova
 - HK Super
@@ -158,6 +161,7 @@ and some others...
 - Neuzeit Grotesk
 - Neuzeit S LT Std
 - Nexa
+- Noe
 - Noto Sans
 - Noto Serif
 - Now
@@ -192,6 +196,7 @@ and some others...
 - Roadiz Sans
 - Roboto
 - Roboto Mono
+- Romeo Elvis Condensed
 - Samsung Sharp Sans
 - Sans Forgetica
 - Segoe UI
@@ -213,9 +218,12 @@ and some others...
 - Stellar
 - Studio Pro
 - Studio Sans [DEMO]
+- Sugo Pro [SAMPLE]
 - Supply Mono
 - Syne
+- Telegraf
 - TTCommons
+- Uber Move
 - Ubuntu
 - Undeka
 - Untitled Sans
@@ -223,5 +231,6 @@ and some others...
 - Wavehaus
 - Work Sans
 - Wremena
+- Zefani
 - Zilla Slab
 - Zwizz
