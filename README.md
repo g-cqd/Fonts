@@ -1,5 +1,8 @@
 # Fonts
 
+Full size of Cloned Repository : __± 1GB__
+Full size of Forked Repository : __± 1.6GB__
+
 ## Introduce Fonts
 
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
