@@ -2,14 +2,14 @@
 
 ## Introduce Fonts
 
-I know, you know, we know, fonts can be expansive. But it is really easy to find free files of them. So there are so much of them here and it's not going to stop.
+I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
 
 
 
 ## Versions
 
-19 - 1 - 10 : 1.0.0 : raw files, some bugs/errors can remain
+January 10th 2019 : 1.0.0 : raw files, some bugs/errors can remain
 
 
 
@@ -19,31 +19,102 @@ I know, you know, we know, fonts can be expansive. But it is really easy to find
 I don't own any of fonts included here.
 
 
-Check rights and usage conditions of any font before use it publicly. I DO NOT RECOMMEND TO USE WITHOUT BEING SURE YOU CAN.
+Please, check rights and usage conditions of any font before use it publicly.
+__I DO NOT RECOMMEND USING THESE FILES WITHOUT BEING SURE YOU CAN.__
 
 
-## Some Fonts can have bugs
+## User Manuals
+
+Four cases are presenting to you.
+1. A web site allows you to download a font.
+2. A web site uses a font in its body or allows you dynamically preview a font.
+3. A web site dynamically displays sample images of a font.
+4. A web site displays sample images of a font.
+
+
+### Soluces
+
+Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
+
+
+## Buggy Fonts
 
 ## Provided Fonts
-- Acari
-- Agane
-- Agate
-- Agrandir
-- Airbnb Cereal App
+
+### Apple
+- San Francisco + Symbols
+	- Pro : Display + Rounded + Text
+	- Compact : Display + Rounded + Text
+- San Francisco Mono
+- New York
+	- Extra Large
+	- Large
+	- Medium
+	- Small
+
+### Berthold Fonts
+- AG Book
+	- Standard
+	- Condensed
+	- Extended
+- Akzidenz-Grotesk
+	- Standard
+	- Condensed
+	- Extended
+- Berthold Standard
+	- Standard
+	- Diagonal
+- Futura
+	- Standard
+	- Condensed
+
+### Black [Foundry]
+- Bluu Superstar
+- Clother
+- Drive Mono
+- Finder
+- Grtsk
+	- Exa (+Bkslnt)
+	- Giga (+Bkslnt)
+	- Mega (+Bkslnt)
+	- Peta (+Bkslnt)
+	- Tera (+Bkslnt)
+	- Zetta (+Bkslnt)
+- Vesterbro
+
+### Hanken Design Co.
+- Glacial Indifference
+- Grantipo Beta 001
+- Grantipo Beta 001 Updated
+- HK Grotesk
+
+### Indestructible Type*
+- Jost*
+- Bodoni*
+- Besley*
+
+### Lineto
 - Akkurat
+- Akkurat Mono
+- Circular
+
+### Pangram Pangram
+- Agrandir
+- Fuji
+- Grafier
+- Supply Mono
+
+
+### Others
+- Acari Sans
+- Agane
+- Airbnb Cereal App
 - Amazon Ember
 - Andale Mono
 - Anderson Grotesk
 - Apercu
 - Apercu Pro
 - AO Mono
-- Apple San Francisco Compact Display
-- Apple San Francisco Compact Rounded
-- Apple San Francisco Compact Text
-- Apple San Francisco Mono
-- Apple San Francisco Pro Display
-- Apple San Francisco Pro Rounded
-- Apple San Francisco Pro Text
 - AXIS
 - Bagnard
 - Bagnard Sans
@@ -54,8 +125,8 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Bebas Neue
 - BigJohn / SlimJoe
 - BigJohn Pro
+- Biwa Agate
 - Bluu Next
-- Bodoni* : 11, 16, 24, 36, 48, 72, 96
 - Calibre
 - Calling Code
 - Cantarell
@@ -83,7 +154,6 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Founders Grotesk
 - FREEFATFONT
 - Frutiger Next Lt
-- Fuji
 - Garcia
 - Gellix [TRIAL]
 - Geomanist
@@ -91,13 +161,9 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Gidole
 - Gilroy
 - Gotham
-- Grafier
-- Grantipo Beta 001
-- Grantipo Beta 001 Updated
 - Gravity
 - Hack
 - Handel Gothic
-- Hanken Grotesk
 - Happy Times at the IKOB
 - Hasklig
 - Helvetica Now Display
@@ -113,22 +179,11 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - IBM Plex
 - Inconsolata
 - Input
-- Inter UI 2.5
-- Inter UI 3.1
-- Inter UI 3.2
-- Inter 3.3
-- Inter 3.4
-- Inter 3.5
-- Inter 3.7
-- Inter 3.8
-- Inter 3.9
-- Inter 3.10
-- Inter 3.11
-- Inter 3.12
+- Inter UI : 2.5 .. 3.2
+- Inter : 3.3 .. 3.12 (+Display alpha)
 - Intro
 - Iosevka 2.0.2
-- JetBrains Mono 1.0.0
-- JetBrains Mono 1.0.2
+- JetBrains Mono : 1.0.0 .. 1.0.5
 - Jost
 - JT Leonor
 - Kayak
@@ -200,10 +255,6 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Samsung Sharp Sans
 - Sans Forgetica
 - Segoe UI
-- SF Compact
-- SF Mono
-- SF Pro
-- SF Pro Icons
 - Sharis Serif
 - Solide Mirage
 - Sometype Mono
@@ -219,7 +270,6 @@ Check rights and usage conditions of any font before use it publicly. I DO NOT R
 - Studio Pro
 - Studio Sans [DEMO]
 - Sugo Pro [SAMPLE]
-- Supply Mono
 - Syne
 - Telegraf
 - TTCommons
