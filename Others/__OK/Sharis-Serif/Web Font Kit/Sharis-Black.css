@@ -1,0 +1,12 @@
+/* Webfont: Sharis-Black */@font-face {
+    font-family: 'SharisBlack';
+    src: url('Sharis-Black.eot'); /* IE9 Compat Modes */
+    src: url('Sharis-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sharis-Black.woff') format('woff'), /* Modern Browsers */
+         url('Sharis-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Sharis-Black.svg#Sharis-Black') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

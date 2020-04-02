@@ -1,0 +1,12 @@
+/* Webfont: Sharis-Thin */@font-face {
+    font-family: 'SharisThin';
+    src: url('Sharis-Thin.eot'); /* IE9 Compat Modes */
+    src: url('Sharis-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sharis-Thin.woff') format('woff'), /* Modern Browsers */
+         url('Sharis-Thin.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Sharis-Thin.svg#Sharis-Thin') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

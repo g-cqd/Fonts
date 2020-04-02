@@ -1,0 +1,12 @@
+/* Webfont: Sharis-Regular */@font-face {
+    font-family: 'Sharis';
+    src: url('Sharis-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Sharis-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sharis-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Sharis-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Sharis-Regular.svg#Sharis-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

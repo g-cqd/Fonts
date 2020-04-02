@@ -1,0 +1,12 @@
+/* Webfont: Sharis-Light */@font-face {
+    font-family: 'SharisLight';
+    src: url('Sharis-Light.eot'); /* IE9 Compat Modes */
+    src: url('Sharis-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sharis-Light.woff') format('woff'), /* Modern Browsers */
+         url('Sharis-Light.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Sharis-Light.svg#Sharis-Light') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

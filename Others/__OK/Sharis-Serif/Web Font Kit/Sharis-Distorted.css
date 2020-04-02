@@ -1,0 +1,12 @@
+/* Webfont: Sharis-Distorted */@font-face {
+    font-family: 'SharisDistorted';
+    src: url('Sharis-Distorted.eot'); /* IE9 Compat Modes */
+    src: url('Sharis-Distorted.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Sharis-Distorted.woff') format('woff'), /* Modern Browsers */
+         url('Sharis-Distorted.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Sharis-Distorted.svg#Sharis-Distorted') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
