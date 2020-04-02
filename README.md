@@ -1,6 +1,6 @@
 # Fonts
 
-Full size of Cloned Repository : __± 1GB__
+Full size of Cloned Repository : __± 1GB__\n
 Full size of Forked Repository : __± 1.6GB__
 
 ## Introduce Fonts
@@ -40,7 +40,20 @@ Four cases are presenting to you.
 Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
 
+#### Useful Software
+
+- [TransType 4](https://www.fontlab.com/font-converter/transtype/)
+
+
+#### Useful Websites
+
+- [Online Font Converter](https://onlinefontconverter.com)
+- [Transfonter](https://transfonter.org)
+
+
 ## Buggy Fonts
+
+- No known buggy fonts actually.
 
 ## Provided Fonts
 
@@ -90,6 +103,9 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Grantipo Beta 001
 - Grantipo Beta 001 Updated
 - HK Grotesk
+- HK Nova
+- HK Super
+- Now
 
 ### Indestructible Type*
 - Jost*
@@ -103,10 +119,38 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
 ### Pangram Pangram
 - Agrandir
+- Casa Stencil
+- Charlevoix Pro
+- Chronos Serif
+- Cirka
+- Editorial New
+- Formula Condensed
 - Fuji
+- Gatwick
+- Gosha Sans
 - Grafier
+- Hatton
+- Monument Extended
+- Neue Machina
+- Neue Montreal
+- Object Sans
+- Pangram
+- Pier Sans
+- PP Woodland
+- Radio Grotesk
+- Right Grotesk
+- Stellar Sans
 - Supply Mono
+- Telegraf
 
+### Open Source
+
+- Inter UI
+	- 2.5 -> 3.2
+- Inter
+	- 3.3 -> 3.12 (+Display alpha)
+- JetBrains Mono
+	- 1.0.0 -> 1.0.5
 
 ### Others
 - Acari Sans
@@ -133,11 +177,8 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Calibre
 - Calling Code
 - Cantarell
-- Casa Stencil
 - Cascadia
-- Charlevoix Pro
 - Choplin
-- Chronos Serif
 - Circular Std
 - Code Saver
 - College Stencil
@@ -153,7 +194,6 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Faune
 - Fira Code
 - Fivo Sans Modern
-- Formula Condensed
 - Founders Grotesk
 - FREEFATFONT
 - Frutiger Next Lt
@@ -172,9 +212,6 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Helvetica Now Display
 - Helvetica Now Micro [BUG]
 - Helvetica Now Text
-- HK Grotesk
-- HK Nova
-- HK Super
 - iA Writer Duo
 - iA Writer Duospace
 - iA Writer Mono
@@ -182,12 +219,8 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - IBM Plex
 - Inconsolata
 - Input
-- Inter UI : 2.5 .. 3.2
-- Inter : 3.3 .. 3.12 (+Display alpha)
 - Intro
 - Iosevka 2.0.2
-- JetBrains Mono : 1.0.0 .. 1.0.5
-- Jost
 - JT Leonor
 - Kayak
 - Konstant Grotesk
@@ -209,21 +242,16 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Metropolis
 - Minimal Mono
 - Mont
-- Monument Extended
 - Moon 1
 - Moon 2
 - m+ (mplus)
 - Netflix Sans
-- Neue Machina [SAMPLE]
-- Neue Montreal
 - Neuzeit Grotesk
 - Neuzeit S LT Std
 - Nexa
 - Noe
 - Noto Sans
 - Noto Serif
-- Now
-- Object Sans
 - Objectivity
 - Office Code Pro
 - Open Sans
@@ -233,12 +261,9 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Overpass
 - Overpass Mono
 - Oxygen
-- Pangram
 - PF Din Mono
-- Pier Sans
 - Point [DEMO]
 - Poppins
-- PP Woodland
 - Pragmata Pro
 - Product Sans
 - PT Serif
@@ -247,7 +272,6 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Qanelas
 - Qanelas Soft [DEMO]
 - Quicksand
-- Radio Grotesk
 - Radnika
 - Radnika Next
 - Reforma : 1918, 1969, 2018
@@ -269,12 +293,10 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Space Mono
 - Spectral
 - Sporting Grotesque
-- Stellar
 - Studio Pro
 - Studio Sans [DEMO]
 - Sugo Pro [SAMPLE]
 - Syne
-- Telegraf
 - TTCommons
 - Uber Move
 - Ubuntu
