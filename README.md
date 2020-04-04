@@ -738,7 +738,7 @@ ______
 - [Schick-Toikka](https://www.schick-toikka.com)
 - [Source Foundry](https://github.com/source-foundry)
 - [Steppot](https://steppot.com)
-- The League of Moveable Type
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com)
 - [Think Work Observe](https://t-wo.it)
 - [Tribby Type](https://tribby.com)
 - [TypeType](https://typetype.org)
