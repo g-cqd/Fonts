@@ -1,7 +1,8 @@
 # Fonts
 
-Full size of Cloned Repository : __± 1GB__\n
-Full size of Forked Repository : __± 1.6GB__
+Full size of Downloaded Repository : __± 1.3GB__
+
+Full size of Cloned Repository : __± 2.3GB__
 
 ## Introduce Fonts
 
@@ -12,7 +13,9 @@ I know, you know, we know, fonts are often expansive. But it is really easy to f
 
 ## Versions
 
-January 10th 2019 : 1.0.0 : raw files, some bugs/errors can remain
+- January 10th 2019 : 1.0.0 : raw files, some bugs/errors can remain
+- April 4th 2020 : 2.0.0 : Less Bugs, More Fonts, Higher Quality Fonts
+
 
 
 
@@ -49,6 +52,7 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
 - [Online Font Converter](https://onlinefontconverter.com)
 - [Transfonter](https://transfonter.org)
+- [WOFFer • WOFF Font Converter](https://andrewsun.com/tools/woffer-woff-font-converter/)
 
 
 ## Buggy Fonts
