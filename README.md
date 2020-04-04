@@ -1,13 +1,9 @@
 # Fonts
 
-Full size of Downloaded Repository : __± 1.3GB__
-
-Full size of Cloned Repository : __± 2.3GB__
-
-## Introduce Fonts
-
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
+- Full size of Downloaded Repository : __± 1.3GB__
+- Full size of Cloned Repository : __± 2.3GB__
 
 
 
@@ -16,20 +12,20 @@ I know, you know, we know, fonts are often expansive. But it is really easy to f
 - January 10th 2019 : 1.0.0 : raw files, some bugs/errors can remain
 - April 4th 2020 : 2.0.0 : Less Bugs, More Fonts, Higher Quality Fonts
 
-
-
-
+------
 
 ## Is it really free ?
 
 I don't own any of fonts included here.
 
-
 Please, check rights and usage conditions of any font before use it publicly.
+
 __I DO NOT RECOMMEND USING THESE FILES WITHOUT BEING SURE YOU CAN.__
 
+______
 
-## User Manuals
+
+## User Manual
 
 Four cases are presenting to you.
 1. A web site allows you to download a font.
@@ -38,32 +34,44 @@ Four cases are presenting to you.
 4. A web site displays sample images of a font.
 
 
-### Soluces
+### How to get fonts
 
 Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
+______
 
-#### Useful Software
+## Useful
+
+### CLI Tools
+
+- [WOFF2 • Google](https://github.com/google/woff2)
+- [WOFF2OTF • hanisken](https://github.com/hanikesn/woff2otf)
+
+### Softwares
 
 - [TransType 4](https://www.fontlab.com/font-converter/transtype/)
 
 
-#### Useful Websites
+### Websites
 
 - [Online Font Converter](https://onlinefontconverter.com)
 - [Transfonter](https://transfonter.org)
 - [WOFFer • WOFF Font Converter](https://andrewsun.com/tools/woffer-woff-font-converter/)
+
+______
 
 
 ## Buggy Fonts
 
 - No known buggy fonts actually.
 
+______
+
 ## Provided Fonts
 
 <details>
 
-<summary><big>List</big><h3 style="display:none">List</h3></summary>
+<summary><strong>Font List by Author</strong></summary>
 
 #### ABCDinamo
 - Diatype Programm
@@ -624,7 +632,65 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
 
 <details>
-	<summary><big>Foundries</big><h3 style="display:none">Foundries</h3></summary>
+	<summary><strong>Designers</strong></summary>
+
+- ANTI
+- Alex Slobzheninov
+- Andreas Larsen
+- Andrew Herndon
+- Apple
+- Atelier Olschinsky
+- Belleve Invis
+- Boris Garic
+- Chris Simpson
+- Christian Robertson
+- Coji Morishita
+- Corentin Riviere
+- Daniel Iglesias
+- Danilo De Marco
+- Dave Crossland
+- David Jonathan Ross
+- Fabrizio Schiavi
+- Florian Karsten
+- Graham Paterson
+- Hans Renzler
+- Hugo Dumont
+- iA
+- Ian Tuomi
+- Ion Lucin
+- Jean Wojciechowski
+- JetBrains
+- Jérémy Landes
+- Joël Carrouché
+- Krisijanis Mezulis
+- Lucas Sharp
+- Łukasz Dziedzic
+- Mikhail Sharanda
+- Minimal-Mono
+- Nathan Rutzky
+- Ndiscover
+- Nikita Prokopov
+- Pablo Impallari
+- Paul D. Hunt
+- RMIT
+- Radomir Tinkov
+- Raph Levien
+- Rasmus Andersson
+- Roger S. Nelsson
+- Rune Bjørnerås
+- Stephen French
+- Steve Matteson
+- Timo Kuilder
+- U.S. Web Design System
+- Vernon Adams
+- Vicenzo Vuono
+- Wassim Awadallah
+- Wei Huang
+
+</details>
+
+<details>
+	<summary><strong>Foundries</strong></summary>
 
 - ABCDinamo
 - atipo foundry
@@ -679,64 +745,5 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Velvetyne
 - Wordshape
 - Zeta Fonts
-
-</details>
-
-
-<details>
-	<summary><big>Designers</big><h3 style="display:none">Designers</h3></summary>
-
-- ANTI
-- Alex Slobzheninov
-- Andreas Larsen
-- Andrew Herndon
-- Apple
-- Atelier Olschinsky
-- Belleve Invis
-- Boris Garic
-- Chris Simpson
-- Christian Robertson
-- Coji Morishita
-- Corentin Riviere
-- Daniel Iglesias
-- Danilo De Marco
-- Dave Crossland
-- David Jonathan Ross
-- Fabrizio Schiavi
-- Florian Karsten
-- Graham Paterson
-- Hans Renzler
-- Hugo Dumont
-- iA
-- Ian Tuomi
-- Ion Lucin
-- Jean Wojciechowski
-- JetBrains
-- Jérémy Landes
-- Joël Carrouché
-- Krisijanis Mezulis
-- Lucas Sharp
-- Łukasz Dziedzic
-- Mikhail Sharanda
-- Minimal-Mono
-- Nathan Rutzky
-- Ndiscover
-- Nikita Prokopov
-- Pablo Impallari
-- Paul D. Hunt
-- RMIT
-- Radomir Tinkov
-- Raph Levien
-- Rasmus Andersson
-- Roger S. Nelsson
-- Rune Bjørnerås
-- Stephen French
-- Steve Matteson
-- Timo Kuilder
-- U.S. Web Design System
-- Vernon Adams
-- Vicenzo Vuono
-- Wassim Awadallah
-- Wei Huang
 
 </details>
