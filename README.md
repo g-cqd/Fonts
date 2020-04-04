@@ -63,7 +63,7 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
 <details>
 
-<summary><h3>List</h3></summary>
+<summary><big>List</big><h3 style="display:none">List</h3></summary>
 
 #### ABCDinamo
 - Diatype Programm
@@ -624,7 +624,7 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
 
 <details>
-	<summary><h3>Foundries</h3></summary>
+	<summary><big>Foundries</big><h3 style="display:none">Foundries</h3></summary>
 
 - ABCDinamo
 - atipo foundry
@@ -684,7 +684,7 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
 
 <details>
-	<summary><h3>Designers</h3></summary>
+	<summary><big>Designers</big><h3 style="display:none">Designers</h3></summary>
 
 - ANTI
 - Alex Slobzheninov
