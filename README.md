@@ -61,7 +61,43 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 
 ## Provided Fonts
 
-### Apple
+<details>
+
+<summary><h3>List</h3></summary>
+
+#### ABCDinamo
+- Diatype Programm
+- Favorit
+	- Pro
+	- Std
+	- Std Lining
+	- Std Mono
+- Gothic
+- Monument Grotesk
+- Pegasus
+- Permanent
+- Rauchwaren
+- Simon Mono
+
+
+#### Alex Slobzheninov
+- Fivo Sans Modern
+
+
+#### Andreas Larsen
+- Gidole
+- Monoid
+
+
+#### Andrew Herndon
+- Zefani
+
+
+#### ANTI
+- Optician Sans
+
+
+#### Apple
 - San Francisco + Symbols
 	- Pro : Display + Rounded + Text
 	- Compact : Display + Rounded + Text
@@ -72,7 +108,24 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 	- Medium
 	- Small
 
-### Berthold Fonts
+
+#### Atelier Olschinsky
+- AO Mono
+- Minimal Mono
+
+
+#### atipo foundry
+- Basier
+	- Square
+	- Circle
+- Geomanist
+
+
+#### Belleve Invis
+- Iosevka
+
+
+#### Berthold Fonts
 - AG Book
 	- Standard
 	- Condensed
@@ -88,7 +141,8 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 	- Standard
 	- Condensed
 
-### Black [Foundry]
+
+#### Black [Foundry]
 - Bluu Superstar
 - Clother
 - Drive Mono
@@ -102,7 +156,138 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 	- Zetta (+Bkslnt)
 - Vesterbro
 
-### Hanken Design Co.
+
+#### Bold Monday
+- IBM Plex
+
+
+#### Bonjour Monde
+- Syne
+
+
+#### Boris Garic
+- Geometrica Sans
+
+
+#### BrightHead Studio
+- Studio Sans
+
+
+#### Chris Simpson
+- Metropolis
+
+
+#### Christian Robertson
+- Roboto (+Condensed,Mono,Slab)
+
+
+#### CNAP
+- Faune
+
+
+#### Coji Morishita
+- M+
+
+
+#### Colophon Foundry
+- Apercu (+Pro, Pro Condensed, Pro Mono)
+
+
+#### Corentin Riviere
+- College Stencil
+
+
+#### Craft Supply Co.
+- Marques
+
+
+#### Creative Tacos
+- Sharis Serif
+
+
+#### Dalton Maag
+- AirBnb Cereal
+- Amazon Ember
+- Fantasque Sans Mono
+- Netflix Sans
+- Ubuntu
+
+
+#### Daniel Iglesias
+- Vision
+
+
+#### Danilo De Marco
+- Aganè
+
+
+#### Dave Crossland
+- Cantarell
+
+
+#### David Jonathan Ross
+- Input
+
+
+#### Delve Fonts
+- Overpass (+Mono)
+
+
+#### Dharma Type
+- Bebas Neue
+- Calling Code
+- Code Saver
+- Sometype Mono
+
+
+#### Displaay Type Foundry
+- Gellix - _Trial_
+- Matter - _Trial_
+
+
+#### Etcetera Type Company
+- ETC Trispace
+
+
+#### Fabrizio Schiavi
+- Pragmata Pro
+
+
+#### FaceType
+- Publica Sans
+
+
+#### Florian Karsten
+- FK Display
+- FK Grotesk (+Mono,SemiMono)
+- FK Raster Grotesk (+Compact)
+- FK Roman (+Display,Text)
+- FK Screamer
+- Space Grotesk
+
+
+#### fontfabric
+- Choplin
+- Intro
+- Mont
+- Nexa
+
+
+#### Fonts with Love
+- Ethos
+
+
+#### Google
+- Noto
+- Product Sans
+
+
+#### Graham Paterson
+- Wavehaus Sans
+
+
+#### Hanken Design Co.
+- Acari Sans
 - Glacial Indifference
 - Grantipo Beta 001
 - Grantipo Beta 001 Updated
@@ -110,18 +295,170 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - HK Nova
 - HK Super
 - Now
+- Orkney
+- Radnika
+- Radnika Next
+- Zwizz
 
-### Indestructible Type*
+
+#### Hans Renzler
+- Lovelo
+
+
+#### Harvatt House
+- Coves
+- Kayak Sans
+- Moon
+
+
+#### Hoefler & Co.
+- Gotham
+- Operator Mono
+
+
+#### Hugo Dumont
+- Romeo Elvis Condensed
+
+
+#### iA
+- iA Writer
+	- Duo
+	- Duospace
+	- Mono
+	- Quattro
+
+
+#### Ian Tuomi
+- Hasklig
+
+
+#### Indestructible Type*
 - Jost*
 - Bodoni*
 - Besley*
 
-### Lineto
-- Akkurat
-- Akkurat Mono
+
+#### Indian Type Foundries
+- Poppins
+
+
+#### Ion Lucin
+- Big John (+Pro)
+- Slim joe
+
+
+#### JAM Type
+- JT Leonor
+
+
+#### Jean Wojciechowski
+- AXIS
+
+
+#### Jérémy Landes
+- Le Murmure
+- Solide Mirage
+
+
+#### JetBrains
+- JetBrains Mono
+	- 1.0.0 -> 1.0.5
+
+
+#### Joël Carrouché
+- Linotte
+
+
+#### Klim Type Foundry
+- Calibre
+- Domaine
+	- Display Narrow
+	- Sans Display
+
+
+#### Krisijanis Mezulis
+- Undeka
+
+
+#### Lineto
+- Akkurat (+Mono)
 - Circular
 
-### Pangram Pangram
+
+#### Linotype
+- Avenir
+- Neue Haas Grotesk
+- Neuzeit S LT
+- Univers
+
+
+#### Love Letters
+- Bagnard
+- Cotham Sans
+- Grotex
+- Reglo
+
+
+#### Lucas Sharp
+- Samsung Sharp Sans
+
+
+#### Łukasz Dziedzic
+- Lato
+
+
+#### Maous
+- Garcia
+
+
+#### Microsoft
+- Cascadia
+- Segoe UI
+
+
+#### Mikhail Sharanda
+- Manrope
+
+
+#### Milieu Grotesque
+- Maison (+Mono)
+- Maison Neue (+Mono,Expanded)
+
+
+#### MKCL
+- Uber Move
+
+
+#### Monotype
+- Andale Mono
+- Helvetica Now (+Display,Micro,Text)
+
+
+#### Nathan Rutzky
+- Office Code Pro
+
+
+#### Ndiscover
+- Point - _Demo_
+
+
+#### Nikita Prokopov
+- Fira Code
+
+
+#### Nonpareille
+- Roadiz Sans
+
+
+#### Pablo Impallari
+- Lobster
+
+
+#### Pampatype
+- Reforma
+
+
+#### Pangram Pangram
 - Agrandir
 - Casa Stencil
 - Charlevoix Pro
@@ -147,169 +484,259 @@ Happily, there is a soluce for Case 1 and Case 2. I'll talk about it later.
 - Supply Mono
 - Telegraf
 
-### Open Source
 
+#### Parachute
+- PF Din Mono
+
+
+#### Paul D. Hunt
+- Source
+	- Code Pro
+	- Sans Pro
+	- Serif Pro
+
+
+#### Production Type
+- Spectral
+
+
+#### Radomir Tinkov
+- Gilroy
+- Qanelas (+Soft)
+
+
+#### Raph Levien
+- Inconsolata
+
+
+#### Rasmus Andersson
 - Inter UI
 	- 2.5 -> 3.2
 - Inter
 	- 3.3 -> 3.12 (+Display alpha)
-- JetBrains Mono
-	- 1.0.0 -> 1.0.5
 
-### Others
-- Acari Sans
-- Agane
-- Airbnb Cereal App
-- Amazon Ember
-- Andale Mono
-- Anderson Grotesk
-- Apercu
-- Apercu Pro
-- AO Mono
-- AXIS
-- Bagnard
-- Bagnard Sans
-- Barbour
-- Barlow
-- Basier Circle
-- Basier Square
-- Bebas Neue
-- BigJohn / SlimJoe
-- BigJohn Pro
-- Biwa Agate
-- Bluu Next
-- Calibre
-- Calling Code
-- Cantarell
-- Cascadia
-- Choplin
-- Circular Std
-- Code Saver
-- College Stencil
-- Cotham Sans
-- Coves
-- Domaine Display Narrow
-- Domaine Sans Display
-- Draft B
-- ETC Trispace
-- Ethos
+
+#### RMIT
+- Sans Forgetica
+
+
+#### Roger S. Nelsson
 - Familiar Pro
-- Fantasque Sans Mono
-- Faune
-- Fira Code
-- Fivo Sans Modern
-- Founders Grotesk
-- FREEFATFONT
-- Frutiger Next Lt
-- Garcia
-- Gellix [TRIAL]
-- Geomanist
-- Geometrica Sans
-- Gidole
-- Gilroy
-- Gotham
-- Gravity
+
+
+#### Rune Bjørnerås
+- Victor Mono
+
+
+#### Schick-Toikka
+- Noe (+Display,Text)
+
+
+#### Source Foundry
 - Hack
-- Handel Gothic
-- Happy Times at the IKOB
-- Hasklig
-- Helvetica Now Display
-- Helvetica Now Micro [BUG]
-- Helvetica Now Text
-- iA Writer Duo
-- iA Writer Duospace
-- iA Writer Mono
-- iA Writer Quattro
-- IBM Plex
-- Inconsolata
-- Input
-- Intro
-- Iosevka 2.0.2
-- JT Leonor
-- Kayak
+
+
+#### Stephen French
+- Anderson Grotesk
 - Konstant Grotesk
-- Lack
-- Lato
-- Le Murmure
+
+
+#### Steppot
+- Lunchtype
+
+
+#### Steve Matteson
+- Open Sans
+
+
+#### The League of Moveable Type
 - League Mono
 - League Spartan
-- Less Sans
-- Linotte
-- Lobster
-- Lovelo
-- Lunchtype
-- Maison MG [TRIAL]
-- Maison Mono MG [TRIAL]
-- Manrope
-- Marques
-- Matter [TRIAL]
-- Metropolis
-- Minimal Mono
-- Mont
-- Moon 1
-- Moon 2
-- m+ (mplus)
-- Netflix Sans
-- Neuzeit Grotesk
-- Neuzeit S LT Std
-- Nexa
-- Noe
-- Noto Sans
-- Noto Serif
-- Objectivity
-- Office Code Pro
-- Open Sans
-- Operator Mono
-- Optician Sans
-- Orkney
-- Overpass
-- Overpass Mono
-- Oxygen
-- PF Din Mono
-- Point [DEMO]
-- Poppins
-- Pragmata Pro
-- Product Sans
-- PT Serif
-- Public Sans
-- Publica Sans
-- Qanelas
-- Qanelas Soft [DEMO]
-- Quicksand
-- Radnika
-- Radnika Next
-- Reforma : 1918, 1969, 2018
-- Roadiz Sans
-- Roboto
-- Roboto Mono
-- Romeo Elvis Condensed
-- Samsung Sharp Sans
-- Sans Forgetica
-- Segoe UI
-- Sharis Serif
-- Solide Mirage
-- Sometype Mono
-- Source Code Pro
-- Source Sans Pro
-- Source Serif Pro
-- Soyuz Grotesk
-- Space Grotesk
-- Space Mono
-- Spectral
-- Sporting Grotesque
+
+
+#### Think Work Observe
+- Regola Pro
 - Studio Pro
-- Studio Sans [DEMO]
-- Sugo Pro [SAMPLE]
-- Syne
-- TTCommons
-- Uber Move
-- Ubuntu
-- Undeka
-- Untitled Sans
-- Vision
-- Wavehaus
-- Work Sans
+
+
+#### Timo Kuilder
+- Barbour
+
+
+#### Tribby Type
+- Barlow
+- Tribby Grotesk
+
+
+#### Typefaces of The Temporary State
+- Soyuz Grotesk
 - Wremena
-- Zefani
+
+
+#### TypeType
+- TT Commons
+
+
+#### Typotheque
 - Zilla Slab
-- Zwizz
+
+
+#### U.S. Web Design System
+- Public Sans
+
+
+#### URW Type Foundry
+- Handel Gothic
+- Neuzeit Grotesk
+
+
+#### Velvetyne
+- Bluu Next
+- Happy Times at the IKOB
+- Lack
+- Sporting Grotesque
+
+
+#### Vernon Adams
+- Oxygen
+
+
+#### Vicenzo Vuono
+- Gravity
+
+
+#### Wassim Awadallah
+- Less Sans
+
+
+#### Wei Huang
+- Work Sans
+
+
+#### Wordshape
+- Biwa Agate
+
+
+#### Zeta Fonts
+- Sugo Pro
+
+</details>
+
+
+<details>
+	<summary><h3>Foundries</h3></summary>
+
+- ABCDinamo
+- atipo foundry
+- Berthold
+- Black [Foundry]
+- Bold Monday
+- Bonjour Monde
+- BrightHead Studio
+- CNAP
+- Colophon Foundry
+- Craft Supply Co.
+- Creative Tacos
+- Dalton Maag
+- Delve Fonts
+- Dharma Type
+- Displaay Type Foundry
+- Etcetera Type Company
+- FaceType
+- fontfabric
+- Fonts with Love
+- Google
+- Hanken Design Co.
+- Harvatt House
+- Hoefler & Co.
+- Indestructible Type*
+- Indian Type Foundries
+- JAM Type
+- Klim Type Foundry
+- Lineto
+- Linotype
+- Love Letters
+- MKCL
+- Maous
+- Microsoft
+- Milieu Grotesque
+- Monotype
+- Nonpareille
+- Pampatype
+- Pangram Pangram
+- Parachute
+- Production Type
+- Schick-Toikka
+- Source Foundry
+- Steppot
+- The League of Moveable Type
+- Think Work Observe
+- Tribby Type
+- TypeType
+- Typefaces of The Temporary State
+- Typotheque
+- URW Type Foundry
+- Velvetyne
+- Wordshape
+- Zeta Fonts
+
+</details>
+
+
+<details>
+	<summary><h3>Designers</h3></summary>
+
+- ANTI
+- Alex Slobzheninov
+- Andreas Larsen
+- Andrew Herndon
+- Apple
+- Atelier Olschinsky
+- Belleve Invis
+- Boris Garic
+- Chris Simpson
+- Christian Robertson
+- Coji Morishita
+- Corentin Riviere
+- Daniel Iglesias
+- Danilo De Marco
+- Dave Crossland
+- David Jonathan Ross
+- Fabrizio Schiavi
+- Florian Karsten
+- Graham Paterson
+- Hans Renzler
+- Hugo Dumont
+- iA
+- Ian Tuomi
+- Ion Lucin
+- Jean Wojciechowski
+- JetBrains
+- Jérémy Landes
+- Joël Carrouché
+- Krisijanis Mezulis
+- Lucas Sharp
+- Łukasz Dziedzic
+- Mikhail Sharanda
+- Minimal-Mono
+- Nathan Rutzky
+- Ndiscover
+- Nikita Prokopov
+- Pablo Impallari
+- Paul D. Hunt
+- RMIT
+- Radomir Tinkov
+- Raph Levien
+- Rasmus Andersson
+- Roger S. Nelsson
+- Rune Bjørnerås
+- Stephen French
+- Steve Matteson
+- Timo Kuilder
+- U.S. Web Design System
+- Vernon Adams
+- Vicenzo Vuono
+- Wassim Awadallah
+- Wei Huang
+
+</details>
