@@ -525,7 +525,7 @@ ______
 - Inter UI
 	- 2.5 -> 3.2
 - Inter
-	- 3.3 -> 3.12 (+Display alpha)
+	- 3.3 -> 3.13 (+Display beta 1)
 
 
 #### [Razzia Type](https://www.razziatype.com)
