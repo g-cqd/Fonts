@@ -163,6 +163,7 @@ ______
 	- Peta (+Bkslnt)
 	- Tera (+Bkslnt)
 	- Zetta (+Bkslnt)
+- Tosh
 - Vesterbro
 
 
@@ -566,6 +567,15 @@ ______
 - Open Sans
 
 
+#### [Suisse Typefaces](https://www.swisstypefaces.com)
+- Suisse Int'l
+- Suisse Int'l Condensed
+- Suisse Int'l Mono
+- Suisse Neue
+- Suisse Sign
+- Suisse Works
+
+
 #### [The League of Moveable Type](https://www.theleagueofmoveabletype.com)
 - League Mono
 - League Spartan
@@ -744,6 +754,7 @@ ______
 - [Schick-Toikka](https://www.schick-toikka.com)
 - [Source Foundry](https://github.com/source-foundry)
 - [Steppot](https://steppot.com)
+- [Suisse Typefaces](https://www.swisstypefaces.com)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com)
 - [Think Work Observe](https://t-wo.it)
 - [Tribby Type](https://tribby.com)
