@@ -509,6 +509,11 @@ ______
 	- Serif Pro
 
 
+#### [Peter Baker](https://github.com/psb1558)
+- JuniusX
+- Junicode
+
+
 #### [Production Type](https://www.productiontype.com)
 - Spectral
 
@@ -690,6 +695,7 @@ ______
 - [Nikita Prokopov](https://tonsky.me)
 - [Pablo Impallari](https://www.behance.net/impallari)
 - [Paul D. Hunt](https://fonts.adobe.com/designers/paul-d-hunt)
+- [Peter Baker](https://github.com/psb1558)
 - [RMIT](https://www.rmit.edu.au)
 - [Radomir Tinkov](https://www.tinkov.info)
 - [Raph Levien](https://levien.com)
