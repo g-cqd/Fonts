@@ -68,6 +68,13 @@ ______
 
 ______
 
+
+## DMCA
+
+1. DMCA Infrigement against Netflix Sans - June 25th 2020
+
+______
+
 ## Provided Fonts
 
 <details>
@@ -222,7 +229,7 @@ ______
 - AirBnb Cereal
 - Amazon Ember
 - Fantasque Sans Mono
-- Netflix Sans
+- ~~Netflix Sans~~
 - Ubuntu
 
 
@@ -305,6 +312,7 @@ ______
 - Grantipo Beta 001
 - Grantipo Beta 001 Updated
 - HK Grotesk
+- HK Grotesk Wide
 - HK Nova
 - HK Super
 - Now
@@ -531,7 +539,7 @@ ______
 - Inter UI
 	- 2.5 -> 3.2
 - Inter
-	- 3.3 -> 3.13 (+Display beta 1)
+	- 3.3 -> 3.14 (+Display beta 1)
 
 
 #### [Razzia Type](https://www.razziatype.com)
