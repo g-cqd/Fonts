@@ -2,8 +2,8 @@
 
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
-- Full size of Downloaded Repository : __± 1.4GB__
-- Full size of Cloned Repository : __± 2.4GB__
+- Full size of Downloaded Repository : __± 1.55GB__
+- Full size of Cloned Repository : __± 2.43GB__
 
 
 
@@ -188,6 +188,10 @@ ______
 
 #### [BrightHead Studio](https://brightheadstudio.com)
 - Studio Sans
+
+
+#### [Carter & Cone Type](https://cartercone.typenetwork.com/)
+- Cheltenham
 
 
 #### [Chris Simpson](https://github.com/chrismsimpson)
@@ -432,6 +436,10 @@ ______
 - Garcia
 
 
+#### [Marc Simonson](https://www.marksimonson.com/)
+- Anonymous Pro
+
+
 #### [Microsoft](https://github.com/microsoft)
 - Cascadia
 - Segoe UI
@@ -539,7 +547,7 @@ ______
 - Inter UI
 	- 2.5 -> 3.2
 - Inter
-	- 3.3 -> 3.14 (+Display beta 1)
+	- 3.3 -> 3.15 (+Display beta 1)
 
 
 #### [Razzia Type](https://www.razziatype.com)
@@ -674,6 +682,7 @@ ______
 - [Atelier Olschinsky](https://www.olschinsky.at)
 - [Belleve Invis](https://github.com/be5invis)
 - [Boris Garic](http://boris-garic.com)
+- [Carter & Cone Type](https://cartercone.typenetwork.com/)
 - [Chris Simpson](https://github.com/chrismsimpson)
 - [Christian Robertson](http://christianrobertson.com)
 - [Coji Morishita](https://fr.osdn.net/users/coz/)
@@ -756,6 +765,7 @@ ______
 - [Love Letters](http://love-letters.be)
 - [MKCL](https://mckltype.com)
 - [Maous](http://maous.fr)
+- [Marc Simonson](https://www.marksimonson.com/)
 - [Microsoft](https://github.com/microsoft)
 - [Milieu Grotesque](https://www.milieugrotesque.com)
 - [Monotype](https://www.monotype.com/)
