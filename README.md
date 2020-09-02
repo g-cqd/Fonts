@@ -387,7 +387,7 @@ ______
 
 #### [JetBrains](https://www.jetbrains.com)
 - JetBrains Mono
-	- 1.0.0 -> 1.0.5
+	- 1.0.0 -> 2.002
 
 
 #### [Joël Carrouché](https://www.joelcarrouche.com)
