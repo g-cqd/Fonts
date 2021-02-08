@@ -360,7 +360,9 @@ ______
 #### [Indestructible Type\*](https://indestructibletype.com/Home.html)
 - Jost*
 - Bodoni*
+    - 2.001 -> 2.3
 - Besley*
+    - 1.1 -> 2.0
 
 
 #### [Indian Type Foundry](https://www.indiantypefoundry.com)
@@ -387,7 +389,7 @@ ______
 
 #### [JetBrains](https://www.jetbrains.com)
 - JetBrains Mono
-	- 1.0.0 -> 2.002
+	- 1.0.0 -> 2.225
 
 
 #### [Joël Carrouché](https://www.joelcarrouche.com)
@@ -473,6 +475,7 @@ ______
 
 #### [Nikita Prokopov](https://tonsky.me)
 - Fira Code
+	- 2.0 -> 5.2
 
 
 #### [Nonpareille](https://www.nonpareille.net)
