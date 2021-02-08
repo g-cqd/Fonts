@@ -115,14 +115,24 @@ ______
 
 #### [Apple](https://developer.apple.com/fonts/)
 - San Francisco + Symbols
-	- Pro : Display + Rounded + Text
-	- Compact : Display + Rounded + Text
+	- Pro :
+        - Display
+        - Rounded
+        - Text
+        - Variable (2020)
+	- Compact :
+        - Display
+        - Rounded
+        - Text
+        - Variable (2020)
 - San Francisco Mono
+    - Variable (2020)
 - New York
 	- Extra Large
 	- Large
 	- Medium
 	- Small
+    - Variable (2020)
 
 
 #### [Atelier Olschinsky](https://www.olschinsky.at)
