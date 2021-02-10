@@ -2,8 +2,8 @@
 
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
-- Full size of Downloaded Repository : __± 1.75GB__
-- Full size of Cloned Repository : __± 2.84GB__
+- Full size of Downloaded Repository : __± 1.77GB__
+- Full size of Cloned Repository : __± 2.85GB__
 
 
 
@@ -289,6 +289,13 @@ ______
 
 #### [FaceType](https://www.facetype.org)
 - Publica Sans
+
+
+#### [Family Type](https://familytype.com)
+- Athletics
+- Bossa (+Expanded,Extended)
+- Modern Era (+Mono)
+- Universal Sans
 
 
 #### [Florian Karsten](https://floriankarsten.com)
@@ -763,6 +770,7 @@ ______
 - [Displaay Type Foundry](https://displaay.net)
 - [Etcetera Type Company](https://www.etc.supply)
 - [FaceType](https://www.facetype.org)
+- [Family Type](https://familytype.com)
 - [fontfabric](https://www.fontfabric.com)
 - [Fonts with Love](http://www.fontswithlove.com)
 - [Google](https://fonts.google.com)
