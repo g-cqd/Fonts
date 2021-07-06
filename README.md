@@ -2,8 +2,8 @@
 
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
-- Full size of Downloaded Repository : __± 1.77GB__
-- Full size of Cloned Repository : __± 2.85GB__
+- Full size of Downloaded Repository : __± 2.47GB__
+- Full size of Cloned Repository : __± 3.62GB__
 
 
 
@@ -567,7 +567,7 @@ ______
 - Inter UI
 	- 2.5 -> 3.2
 - Inter
-	- 3.3 -> 3.18
+	- 3.3 -> 3.19
 
 
 #### [Razzia Type](https://www.razziatype.com)
