@@ -2,8 +2,8 @@
 
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
-- Full size of Downloaded Repository : __± 2.47GB__
-- Full size of Cloned Repository : __± 3.62GB__
+- Full size of Downloaded Repository : __± 2.56GB__
+- Full size of Cloned Repository : __± 3.81GB__
 
 
 
@@ -375,11 +375,17 @@ ______
 
 
 #### [Indestructible Type\*](https://indestructibletype.com/Home.html)
-- Jost*
-- Bodoni*
-    - 2.001 -> 2.3
 - Besley*
     - 1.1 -> 2.0
+- Bodoni*
+    - 2.001 -> 2.3
+- Drafting* Mono
+- Gnomon*
+    - rÆ
+- Jost*
+    - 3.7
+- No Tears
+    - 1.000
 
 
 #### [Indian Type Foundry](https://www.indiantypefoundry.com)
@@ -406,7 +412,7 @@ ______
 
 #### [JetBrains](https://www.jetbrains.com)
 - JetBrains Mono
-	- 1.0.0 -> 2.225
+	- 1.0.0 -> 2.242
 
 
 #### [Joël Carrouché](https://www.joelcarrouche.com)
@@ -460,8 +466,15 @@ ______
 
 
 #### [Microsoft](https://github.com/microsoft)
-- Cascadia
+- Cascadia Code
+- Cascadia Mono
+- Segoe MDL2 Assets
+- Segoe Print
+- Segoe Script
 - Segoe UI
+- Segoe UI Emoji
+- Segoe UI Historic
+- Segoe UI Symbol
 
 
 #### [Mikhail Sharanda](https://gent.media)
