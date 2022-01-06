@@ -3,7 +3,7 @@
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
 - Full size of Downloaded Repository : __± 2.56GB__
-- Full size of Cloned Repository : __± 3.81GB__
+- Full size of Cloned Repository : __± 3.86GB__
 
 
 
@@ -492,6 +492,9 @@ ______
 
 #### [Monotype](https://www.monotype.com/)
 - Andale Mono
+- Century
+- Century Gothic
+- Century Schoolbook
 - Helvetica Now (+Display,Micro,Text)
 
 
