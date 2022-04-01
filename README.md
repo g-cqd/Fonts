@@ -527,11 +527,14 @@ ______
 #### [Pangram Pangram](https://pangrampangram.com)
 - Agrandir
 - Casa Stencil
-- Charlevoix Pro
+- Charlevoix
 - Chronos Serif
 - Cirka
 - Editorial New
-- Formula Condensed
+- Formula
+- Fraktion
+    - Fraktion Mono
+    - Fraktion Sans
 - Fuji
 - Gatwick
 - Gosha Sans
@@ -541,14 +544,23 @@ ______
 - Neue Machina
 - Neue Montreal
 - Object Sans
+- Objectivity
 - Pangram
+    - Pangram Sans
+    - Pangram Sans Rounded
 - Pier Sans
-- PP Woodland
+- Rader
 - Radio Grotesk
 - Right Grotesk
-- Stellar Sans
-- Supply Mono
+- Right Sans
+- Stellar
+- Supply
+    - Supply Mono
+    - Supply Sans
 - Telegraf
+- Woodland
+- ARCHIVED:
+    - Charlevoix Pro
 
 
 #### [Parachute](https://www.parachutefonts.com)
