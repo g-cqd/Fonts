@@ -2,8 +2,9 @@
 
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
-- Full size of Downloaded Repository : __± 2.56GB__
-- Full size of Cloned Repository : __± 3.86GB__
+- Full size of Downloaded Reposiroty (compressed) : __±1.38GiB__
+- Full size of Downloaded Repository : __± 2.59GiB__
+- Full size of Cloned Repository : __± 3.83GiB__
 
 
 
