@@ -580,7 +580,13 @@ ______
 - Junicode
 
 
+#### [Process Type Foundry](https://processtypefoundry.com/)
+- Cardinal
+- Spectral
+
+
 #### [Production Type](https://www.productiontype.com)
+- Cardinal
 - Spectral
 
 

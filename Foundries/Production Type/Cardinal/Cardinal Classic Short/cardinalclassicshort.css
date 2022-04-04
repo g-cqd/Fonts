@@ -1,0 +1,69 @@
+/*
+    ____                 __           __  _                ______               
+   / __ \_________  ____/ /_  _______/ /_(_)___  ____     /_  __/_  ______  ___ 
+  / /_/ / ___/ __ \/ __  / / / / ___/ __/ / __ \/ __ \     / / / / / / __ \/ _ \
+ / ____/ /  / /_/ / /_/ / /_/ / /__/ /_/ / /_/ / / / /    / / / /_/ / /_/ /  __/
+/_/   /_/   \____/\__,_/\__,_/\___/\__/_/\____/_/ /_/    /_/  \__, / .___/\___/ 
+                                                             /____/_/           
+
+        This font software is the property of Production Type.
+        Your right to access and use this font is subject to the
+        applicable License Agreement that exists between you and 
+        Production Type. If no such agreement exists, you may not
+        access or use this font for any purpose. This font may 
+        only be hosted at the locations specified in the applicable
+        License Agreement, and only for the purposes expressly set
+        forth therein. You may not copy, modify, convert, create 
+        derivative works from or distribute this font in any way,
+        or make it accessible to any third party, without first
+        obtaining the written permission of Production Type. For
+        more information, please visit us at www.productiontype.com
+*/
+            @font-face {
+                font-family: 'cardinalclassicshort-bold';
+                    src: 
+                        url('fonts/cardinalclassicshortweb-bold-TRIAL.eot?#iefix') format('embedded-opentype'),
+                        url('fonts/cardinalclassicshortweb-bold-TRIAL.woff') format('woff');
+                }
+            @font-face {
+                font-family: 'cardinalclassicshort-bolditalic';
+                    src: 
+                        url('fonts/cardinalclassicshortweb-bolditalic-TRIAL.eot?#iefix') format('embedded-opentype'),
+                        url('fonts/cardinalclassicshortweb-bolditalic-TRIAL.woff') format('woff');
+                }
+            @font-face {
+                font-family: 'cardinalclassicshort-italic';
+                    src: 
+                        url('fonts/cardinalclassicshortweb-italic-TRIAL.eot?#iefix') format('embedded-opentype'),
+                        url('fonts/cardinalclassicshortweb-italic-TRIAL.woff') format('woff');
+                }
+            @font-face {
+                font-family: 'cardinalclassicshort-medium';
+                    src: 
+                        url('fonts/cardinalclassicshortweb-medium-TRIAL.eot?#iefix') format('embedded-opentype'),
+                        url('fonts/cardinalclassicshortweb-medium-TRIAL.woff') format('woff');
+                }
+            @font-face {
+                font-family: 'cardinalclassicshort-mediumitalic';
+                    src: 
+                        url('fonts/cardinalclassicshortweb-mediumitalic-TRIAL.eot?#iefix') format('embedded-opentype'),
+                        url('fonts/cardinalclassicshortweb-mediumitalic-TRIAL.woff') format('woff');
+                }
+            @font-face {
+                font-family: 'cardinalclassicshort-regular';
+                    src: 
+                        url('fonts/cardinalclassicshortweb-regular-TRIAL.eot?#iefix') format('embedded-opentype'),
+                        url('fonts/cardinalclassicshortweb-regular-TRIAL.woff') format('woff');
+                }
+            @font-face {
+                font-family: 'cardinalclassicshort-semibold';
+                    src: 
+                        url('fonts/cardinalclassicshortweb-semibold-TRIAL.eot?#iefix') format('embedded-opentype'),
+                        url('fonts/cardinalclassicshortweb-semibold-TRIAL.woff') format('woff');
+                }
+            @font-face {
+                font-family: 'cardinalclassicshort-semibolditalic';
+                    src: 
+                        url('fonts/cardinalclassicshortweb-semibolditalic-TRIAL.eot?#iefix') format('embedded-opentype'),
+                        url('fonts/cardinalclassicshortweb-semibolditalic-TRIAL.woff') format('woff');
+                }
