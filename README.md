@@ -17,9 +17,11 @@ I know, you know, we know, fonts are often expansive. But it is really easy to f
 
 ## Is it really free ?
 
-I don't own any of fonts included here.
+I don't own any of fonts included here. These files are only intended as curation/collection purpose.
 
-Please, check rights and usage conditions of any font before use it publicly.
+Please, check rights and usage conditions of any font before using it.
+
+__Purchase the fonts you need if you want to use them.__
 
 __I DO NOT RECOMMEND USING THESE FILES WITHOUT BEING SURE YOU CAN.__
 
@@ -47,6 +49,7 @@ ______
 
 - [WOFF2 • Google](https://github.com/google/woff2)
 - [WOFF2OTF • hanisken](https://github.com/hanikesn/woff2otf)
+- [WOFF2OTF • basicvectors](https://github.com/basisvectors/woff2otf)
 - [WOFFjs • Andrew Sun](https://github.com/as-com/woffjs)
 
 ### Softwares
@@ -631,6 +634,13 @@ ______
 - Hack
 
 
+#### [Starbucks](https://creative.starbucks.com/typography/)
+- Lander Grande
+- Lander Tall
+- Pike
+- SoDo Sans
+
+
 #### [Stephen French](https://www.behance.net/stephenfrenchjr)
 - Anderson Grotesk
 - Konstant Grotesk
@@ -775,6 +785,7 @@ ______
 - [Rasmus Andersson](https://rsms.me/)
 - [Roger S. Nelsson](https://www.myfonts.com/person/Roger_S_Nelsson/)
 - [Rune Bjørnerås](https://github.com/rubjo)
+- [Starbucks](https://creative.starbucks.com/typography/)
 - [Stephen French](https://www.behance.net/stephenfrenchjr)
 - [Steve Matteson](https://mattesontypographics.com)
 - [Timo Kuilder](https://timokuilder.com)

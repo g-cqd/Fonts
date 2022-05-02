@@ -1,0 +1,4 @@
+[submodule "Scripts/woff2otf"]
+	path = Scripts/woff2otf
+	url = https://github.com/basisvectors/woff2otf
+	branch = main
