@@ -323,6 +323,7 @@ ______
 
 
 #### [Google](https://fonts.google.com)
+- Jigsaw Sans
 - Noto
 - Product Sans
 
