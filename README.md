@@ -381,7 +381,7 @@ ______
 
 #### [Indestructible Type\*](https://indestructibletype.com/Home.html)
 - Besley*
-    - 1.1 -> 2.0
+    - 1.1 -> 3.0
 - Bodoni*
     - 2.001 -> 2.3
 - Drafting* Mono
