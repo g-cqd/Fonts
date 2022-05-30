@@ -604,10 +604,10 @@ ______
 
 
 #### [Rasmus Andersson](https://rsms.me/)
-- Inter UI
-	- 2.5 -> 3.2
 - Inter
-	- 3.3 -> 3.19
+	- 2.5 (Inter UI) -> 3.19 (Inter)
+- Inter Display
+	- 3.12.Alpha -> 3.19.Beta.2 
 
 
 #### [Razzia Type](https://www.razziatype.com)
