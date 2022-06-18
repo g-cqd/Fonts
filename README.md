@@ -417,7 +417,7 @@ ______
 
 #### [JetBrains](https://www.jetbrains.com)
 - JetBrains Mono
-	- 1.0.0 -> 2.242
+	- 1.0.0 -> 2.251
 - JetBrains Sans
 
 
