@@ -332,6 +332,10 @@ ______
 - Wavehaus Sans
 
 
+#### [G-Type](https://g-type.com/)
+- Rollerscript
+
+
 #### [Hanken Design Co.](https://hanken.co)
 - Acari Sans
 - Glacial Indifference
@@ -822,6 +826,7 @@ ______
 - [fontfabric](https://www.fontfabric.com)
 - [Fonts with Love](http://www.fontswithlove.com)
 - [Google](https://fonts.google.com)
+- [G-Type](#### [G-Type](https://g-type.com/)
 - [Hanken Design Co.](https://hanken.co)
 - [Harvatt House](https://harvatt.house)
 - [Hoefler & Co.](https://www.typography.com)
