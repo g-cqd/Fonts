@@ -328,6 +328,10 @@ ______
 - Product Sans
 
 
+### [Gradient](https://wearegradient.net/)
+- PolySans
+
+
 #### [Graham Paterson](https://grahampaterson.co.za)
 - Wavehaus Sans
 
@@ -826,6 +830,7 @@ ______
 - [fontfabric](https://www.fontfabric.com)
 - [Fonts with Love](http://www.fontswithlove.com)
 - [Google](https://fonts.google.com)
+- [Gradient](https://wearegradient.net/)
 - [G-Type](#### [G-Type](https://g-type.com/)
 - [Hanken Design Co.](https://hanken.co)
 - [Harvatt House](https://harvatt.house)
