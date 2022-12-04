@@ -92,6 +92,7 @@ ______
 	- Std
 	- Std Lining
 	- Std Mono
+- Ginto Nord
 - Gothic
 - Monument Grotesk
 - Pegasus
@@ -173,6 +174,7 @@ ______
 
 
 #### [Black [Foundry]](https://black-foundry.com)
+- Angus
 - Bluu Superstar
 - Clother
 - Drive Mono
@@ -222,6 +224,10 @@ ______
 
 #### [Coji Morishita](https://fr.osdn.net/users/coz/)
 - M+
+
+
+#### [Commercial Type](https://commercialtype.com/)
+- Schnyder S Web
 
 
 #### [Colophon Foundry](https://www.colophon-foundry.org)
@@ -278,9 +284,17 @@ ______
 - Sometype Mono
 
 
+#### [Discord](https://discord.com/)
+- gg sans
+
+
 #### [Displaay Type Foundry](https://displaay.net)
 - Gellix - _Trial_
 - Matter - _Trial_
+
+
+#### [DSType Foundry](https://www.dstype.com/)
+- User
 
 
 #### [Etcetera Type Company](https://www.etc.supply)
@@ -672,6 +686,11 @@ ______
 - Suisse Works
 
 
+#### [Taner Ardalı](https://tanerardali.com/)
+- Antre
+- Planc
+
+
 #### [The League of Moveable Type](https://www.theleagueofmoveabletype.com)
 - League Mono
 - League Spartan
@@ -797,6 +816,7 @@ ______
 - [Starbucks](https://creative.starbucks.com/typography/)
 - [Stephen French](https://www.behance.net/stephenfrenchjr)
 - [Steve Matteson](https://mattesontypographics.com)
+- [Taner Ardalı](https://tanerardali.com/)
 - [Timo Kuilder](https://timokuilder.com)
 - [U.S. Web Design System](https://designsystem.digital.gov)
 - [Vernon Adams](https://github.com/vernnobile)
@@ -818,12 +838,15 @@ ______
 - [BrightHead Studio](https://brightheadstudio.com)
 - [CNAP](https://www.cnap.fr)
 - [Colophon Foundry](https://www.colophon-foundry.org)
+- [Commercial Type](https://commercialtype.com/)
 - [Craft Supply Co.](https://www.behance.net/craftsupplyco)
 - [Creative Tacos](https://creativetacos.com)
 - [Dalton Maag](https://www.daltonmaag.com)
 - [Delve Fonts](https://delvefonts.com)
 - [Dharma Type](https://dharmatype.com)
+- [Discord](https://discord.com/)
 - [Displaay Type Foundry](https://displaay.net)
+- [DSType Foundry](https://www.dstype.com/)
 - [Etcetera Type Company](https://www.etc.supply)
 - [FaceType](https://www.facetype.org)
 - [Family Type](https://familytype.com)
