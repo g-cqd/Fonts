@@ -2,7 +2,7 @@
 
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
-- Full size of Downloaded Reposiroty (compressed) : __±1.38GiB__
+- Full size of Downloaded Repository (compressed) : __±1.38GiB__
 - Full size of Downloaded Repository : __± 2.59GiB__
 - Full size of Cloned Repository : __± 3.83GiB__
 
@@ -140,6 +140,10 @@ ______
     - Variable (2020)
 
 
+#### [Arendxstudio](https://www.behance.net/aseprendii)
+- Vickie
+
+
 #### [Atelier Olschinsky](https://www.olschinsky.at)
 - AO Mono
 - Minimal Mono
@@ -250,7 +254,8 @@ ______
 
 
 #### [Dalton Maag](https://www.daltonmaag.com)
-- AirBnb Cereal
+- Airbnb Cereal
+    - 1.0.0.1 -> 1.0.0.2
 - Amazon Ember
 - Fantasque Sans Mono
 - ~~Netflix Sans~~
@@ -307,6 +312,10 @@ ______
 
 #### [FaceType](https://www.facetype.org)
 - Publica Sans
+
+
+#### [Facundo Giménez](https://www.behance.net/facundogimenezdesign)
+- Autonoma Display (Beta)
 
 
 #### [Family Type](https://familytype.com)
@@ -458,6 +467,10 @@ ______
 - Undeka
 
 
+#### [Laurids Kern](https://github.com/lauridskern)
+- Open Runde
+
+
 #### [Lineto](https://lineto.com/)
 - Akkurat (+Mono)
 - Circular
@@ -468,6 +481,12 @@ ______
 - Neue Haas Grotesk
 - Neuzeit S LT
 - Univers
+
+
+#### [Local Remote](https://localremote.co/)
+- TASA
+    - TASA Explorer
+    - TASA Orbiter
 
 
 #### [Love Letters](http://love-letters.be)
@@ -483,6 +502,14 @@ ______
 
 #### [Łukasz Dziedzic](http://www.lukaszdziedzic.eu)
 - Lato
+
+
+#### [Made Type](https://behance.com/madetype)
+- MADE Sunflower
+
+
+#### [Manuel Fernández del Campo García](https://manuelfcg.com/)
+- Xochi
 
 
 #### [Maous](http://maous.fr)
@@ -606,6 +633,10 @@ ______
 - Junicode
 
 
+#### [Power Type](https://power-type.com/)
+- OffBit (Trial)
+
+
 #### [Process Type Foundry](https://processtypefoundry.com/)
 - Cardinal
 - Spectral
@@ -628,8 +659,9 @@ ______
 #### [Rasmus Andersson](https://rsms.me/)
 - Inter
 	- 2.5 (Inter UI) -> 3.19 (Inter)
+	- 4.0 == 4.0.beta.9h
 - Inter Display
-	- 3.12.Alpha -> 3.19.Beta.2 
+	- 3.12.Alpha -> 3.19.Beta.2
 
 
 #### [Razzia Type](https://www.razziatype.com)
@@ -751,6 +783,10 @@ ______
 - Less Sans
 
 
+#### [We Are Ensemble](https://weareensemble.co.uk/)
+- Tombstone Blues
+
+
 #### [Wei Huang](https://github.com/weiweihuanghuang/)
 - Work Sans
 
@@ -773,6 +809,7 @@ ______
 - [Andreas Larsen](https://github.com/larsenwork)
 - [Andrew Herndon](https://www.behance.net/AndrewHerndon)
 - [Apple](https://developer.apple.com/fonts/)
+- [Arendxstudio](https://www.behance.net/aseprendii)
 - [Atelier Olschinsky](https://www.olschinsky.at)
 - [Belleve Invis](https://github.com/be5invis)
 - [Boris Garic](http://boris-garic.com)
@@ -786,6 +823,7 @@ ______
 - [Dave Crossland](http://understandingfonts.com/who/dave-crossland/)
 - [David Jonathan Ross](https://djr.com)
 - [Fabrizio Schiavi](https://www.fsd.it)
+- [Facundo Giménez](https://www.behance.net/facundogimenezdesign)
 - [Florian Karsten](https://floriankarsten.com)
 - [Graham Paterson](https://grahampaterson.co.za)
 - [Hans Renzler](http://www.renzler.net)
@@ -798,8 +836,11 @@ ______
 - [Jérémy Landes](https://studiotriple.fr)
 - [Joël Carrouché](https://www.joelcarrouche.com)
 - [Krisijanis Mezulis](https://www.krisjanismezulis.com)
+- [Laurids Kern](https://github.com/lauridskern)
+- [Local Remote](https://localremote.co/)
 - [Lucas Sharp](http://lucassharp.com)
 - [Łukasz Dziedzic](http://www.lukaszdziedzic.eu)
+- [Manuel Fernández del Campo García](https://manuelfcg.com/)
 - [Mikhail Sharanda](https://gent.media)
 - [Nathan Rutzky](https://nath.co)
 - [Ndiscover](https://www.ndiscovered.com)
@@ -822,6 +863,7 @@ ______
 - [Vernon Adams](https://github.com/vernnobile)
 - [Vicenzo Vuono](https://www.behance.net/vincenzovuono)
 - [Wassim Awadallah](https://www.behance.net/blugraphic)
+- [We Are Ensemble](https://weareensemble.co.uk/)
 - [Wei Huang](https://github.com/weiweihuanghuang/)
 
 </details>
@@ -854,7 +896,7 @@ ______
 - [Fonts with Love](http://www.fontswithlove.com)
 - [Google](https://fonts.google.com)
 - [Gradient](https://wearegradient.net/)
-- [G-Type](#### [G-Type](https://g-type.com/)
+- [G-Type](https://g-type.com/)
 - [Hanken Design Co.](https://hanken.co)
 - [Harvatt House](https://harvatt.house)
 - [Hoefler & Co.](https://www.typography.com)
@@ -866,6 +908,7 @@ ______
 - [Linotype](https://www.linotype.com/fr/)
 - [Love Letters](http://love-letters.be)
 - [MKCL](https://mckltype.com)
+- [Made Type](https://behance.com/madetype)
 - [Maous](http://maous.fr)
 - [Marc Simonson](https://www.marksimonson.com/)
 - [Microsoft](https://github.com/microsoft)
@@ -875,6 +918,7 @@ ______
 - [Pampatype](https://pampatype.com)
 - [Pangram Pangram](https://pangrampangram.com)
 - [Parachute](https://www.parachutefonts.com)
+- [Power Type](https://power-type.com/)
 - [Production Type](https://www.productiontype.com)
 - [Razzia Type](https://www.razziatype.com)
 - [Schick-Toikka](https://www.schick-toikka.com)
