@@ -2,9 +2,9 @@
 
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
-- Full size of Downloaded Repository (compressed) : __±1.38GiB__
-- Full size of Downloaded Repository : __± 2.59GiB__
-- Full size of Cloned Repository : __± 3.83GiB__
+- Full size of Downloaded Repository (compressed) : __±1.49GiB__
+- Full size of Downloaded Repository : __± 2.89GiB__
+- Full size of Cloned Repository : __± 4.27GiB__
 
 
 
@@ -236,6 +236,7 @@ ______
 
 #### [Colophon Foundry](https://www.colophon-foundry.org)
 - Apercu (+Pro, Pro Condensed, Pro Mono)
+- Instagram Sans
 - Reader
 - Space Mono
 - System85
@@ -257,6 +258,7 @@ ______
 - Airbnb Cereal
     - 1.0.0.1 -> 1.0.0.2
 - Amazon Ember
+- Facebook Narrow
 - Fantasque Sans Mono
 - ~~Netflix Sans~~
 - Ubuntu
@@ -325,6 +327,10 @@ ______
 - Universal Sans
 
 
+#### [Fenotype](https://fenotype.com)
+- Cosmopolitan Script
+
+
 #### [Florian Karsten](https://floriankarsten.com)
 - FK Display
 - FK Grotesk (+Mono,SemiMono)
@@ -339,6 +345,10 @@ ______
 - Intro
 - Mont
 - Nexa
+
+
+#### [FontMesa](https://www.linotype.com/481423/fontmesa-library.html)
+- Marlin Soft
 
 
 #### [Fonts with Love](http://www.fontswithlove.com)
@@ -595,6 +605,7 @@ ______
 - Grafier
 - Hatton
 - Monument Extended
+- Mori
 - Neue Machina
 - Neue Montreal
 - Object Sans
