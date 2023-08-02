@@ -3,7 +3,7 @@
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
 - Full size of Downloaded Repository (compressed) : __±1.49GiB__
-- Full size of Downloaded Repository : __± 2.89GiB__
+- Full size of Downloaded Repository : __± 2.90GiB__
 - Full size of Cloned Repository : __± 4.27GiB__
 
 
@@ -304,6 +304,10 @@ ______
 - User
 
 
+#### [Ertekinno](https://ertekin.xyz/)
+- Libre Caslon Condensed
+
+
 #### [Etcetera Type Company](https://www.etc.supply)
 - ETC Trispace
 
@@ -581,6 +585,8 @@ ______
 
 
 #### [Pablo Impallari](https://www.behance.net/impallari)
+- Libre Caslon Display
+- Libre Caslon Text
 - Lobster
 
 
@@ -712,6 +718,10 @@ ______
 - Konstant Grotesk
 
 
+#### [Stephen Nixon](https://arrowtype.com)
+- Libre Caslon Text
+
+
 #### [Steppot](https://steppot.com)
 - Lunchtype
 
@@ -766,13 +776,13 @@ ______
 - Zilla Slab
 
 
-#### [U.S. Web Design System](https://designsystem.digital.gov)
-- Public Sans
-
-
 #### [URW Type Foundry](https://www.urwtype.com/en/)
 - Handel Gothic
 - Neuzeit Grotesk
+
+
+#### [U.S. Web Design System](https://designsystem.digital.gov)
+- Public Sans
 
 
 #### [Velvetyne](http://velvetyne.fr)
@@ -815,11 +825,10 @@ ______
 <details>
 	<summary><strong>Designers</strong></summary>
 
-- [ANTI](https://anti.as)
 - [Alex Slobzheninov](https://www.behance.net/slobzheninov)
 - [Andreas Larsen](https://github.com/larsenwork)
 - [Andrew Herndon](https://www.behance.net/AndrewHerndon)
-- [Apple](https://developer.apple.com/fonts/)
+- [ANTI](https://anti.as)
 - [Arendxstudio](https://www.behance.net/aseprendii)
 - [Atelier Olschinsky](https://www.olschinsky.at)
 - [Belleve Invis](https://github.com/be5invis)
@@ -833,17 +842,17 @@ ______
 - [Danilo De Marco](https://www.danilodemarco.com)
 - [Dave Crossland](http://understandingfonts.com/who/dave-crossland/)
 - [David Jonathan Ross](https://djr.com)
+- [Ertekinno](https://ertekin.xyz/)
 - [Fabrizio Schiavi](https://www.fsd.it)
 - [Facundo Giménez](https://www.behance.net/facundogimenezdesign)
+- [Fenotype](https://fenotype.com)
 - [Florian Karsten](https://floriankarsten.com)
 - [Graham Paterson](https://grahampaterson.co.za)
 - [Hans Renzler](http://www.renzler.net)
 - [Hugo Dumont](https://www.myfonts.com/person/Hugo_Dumont/)
-- [iA](https://ia.net)
 - [Ian Tuomi](https://github.com/i-tu)
 - [Ion Lucin](https://www.behance.net/ionL)
 - [Jean Wojciechowski](https://www.behance.net/jeanwoj)
-- [JetBrains](https://www.jetbrains.com)
 - [Jérémy Landes](https://studiotriple.fr)
 - [Joël Carrouché](https://www.joelcarrouche.com)
 - [Krisijanis Mezulis](https://www.krisjanismezulis.com)
@@ -852,6 +861,7 @@ ______
 - [Lucas Sharp](http://lucassharp.com)
 - [Łukasz Dziedzic](http://www.lukaszdziedzic.eu)
 - [Manuel Fernández del Campo García](https://manuelfcg.com/)
+- [Marc Simonson](https://www.marksimonson.com/)
 - [Mikhail Sharanda](https://gent.media)
 - [Nathan Rutzky](https://nath.co)
 - [Ndiscover](https://www.ndiscovered.com)
@@ -859,18 +869,18 @@ ______
 - [Pablo Impallari](https://www.behance.net/impallari)
 - [Paul D. Hunt](https://fonts.adobe.com/designers/paul-d-hunt)
 - [Peter Baker](https://github.com/psb1558)
-- [RMIT](https://www.rmit.edu.au)
 - [Radomir Tinkov](https://www.tinkov.info)
 - [Raph Levien](https://levien.com)
 - [Rasmus Andersson](https://rsms.me/)
+- [RMIT](https://www.rmit.edu.au)
 - [Roger S. Nelsson](https://www.myfonts.com/person/Roger_S_Nelsson/)
 - [Rune Bjørnerås](https://github.com/rubjo)
 - [Starbucks](https://creative.starbucks.com/typography/)
 - [Stephen French](https://www.behance.net/stephenfrenchjr)
+- [Stephen Nixon](https://arrowtype.com)
 - [Steve Matteson](https://mattesontypographics.com)
 - [Taner Ardalı](https://tanerardali.com/)
 - [Timo Kuilder](https://timokuilder.com)
-- [U.S. Web Design System](https://designsystem.digital.gov)
 - [Vernon Adams](https://github.com/vernnobile)
 - [Vicenzo Vuono](https://www.behance.net/vincenzovuono)
 - [Wassim Awadallah](https://www.behance.net/blugraphic)
@@ -883,6 +893,7 @@ ______
 	<summary><strong>Foundries</strong></summary>
 
 - [ABCDinamo](https://www.abcdinamo.com)
+- [Apple](https://developer.apple.com/fonts/)
 - [atipo foundry](http://atipofoundry.com)
 - [Berthold Types](https://www.bertholdtypes.com)
 - [Black [Foundry]](https://black-foundry.com)
@@ -904,6 +915,7 @@ ______
 - [FaceType](https://www.facetype.org)
 - [Family Type](https://familytype.com)
 - [fontfabric](https://www.fontfabric.com)
+- [FontMesa](https://www.linotype.com/481423/fontmesa-library.html)
 - [Fonts with Love](http://www.fontswithlove.com)
 - [Google](https://fonts.google.com)
 - [Gradient](https://wearegradient.net/)
@@ -911,25 +923,27 @@ ______
 - [Hanken Design Co.](https://hanken.co)
 - [Harvatt House](https://harvatt.house)
 - [Hoefler & Co.](https://www.typography.com)
+- [iA](https://ia.net)
 - [Indestructible Type\*](https://indestructibletype.com/Home.html)
 - [Indian Type Foundry](https://www.indiantypefoundry.com)
 - [JAM Type](https://jamtype.com)
+- [JetBrains](https://www.jetbrains.com)
 - [Klim Type Foundry](https://klim.co.nz)
 - [Lineto](https://lineto.com/)
 - [Linotype](https://www.linotype.com/fr/)
 - [Love Letters](http://love-letters.be)
-- [MKCL](https://mckltype.com)
 - [Made Type](https://behance.com/madetype)
 - [Maous](http://maous.fr)
-- [Marc Simonson](https://www.marksimonson.com/)
 - [Microsoft](https://github.com/microsoft)
 - [Milieu Grotesque](https://www.milieugrotesque.com)
+- [MKCL](https://mckltype.com)
 - [Monotype](https://www.monotype.com/)
 - [Nonpareille](https://www.nonpareille.net)
 - [Pampatype](https://pampatype.com)
 - [Pangram Pangram](https://pangrampangram.com)
 - [Parachute](https://www.parachutefonts.com)
 - [Power Type](https://power-type.com/)
+- [Process Type Foundry](https://processtypefoundry.com/)
 - [Production Type](https://www.productiontype.com)
 - [Razzia Type](https://www.razziatype.com)
 - [Schick-Toikka](https://www.schick-toikka.com)
@@ -939,10 +953,11 @@ ______
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com)
 - [Think Work Observe](https://t-wo.it)
 - [Tribby Type](https://tribby.com)
-- [TypeType](https://typetype.org)
 - [Typefaces of The Temporary State](http://typefaces.temporarystate.net/)
+- [TypeType](https://typetype.org)
 - [Typotheque](https://www.typotheque.com)
 - [URW Type Foundry](https://www.urwtype.com/en/)
+- [U.S. Web Design System](https://designsystem.digital.gov)
 - [Velvetyne](http://velvetyne.fr)
 - [Wordshape](http://wordshape.com)
 - [Zeta Fonts](https://www.zetafonts.com)
