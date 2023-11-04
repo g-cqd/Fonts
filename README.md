@@ -1,5 +1,7 @@
 # Fonts
 
+[World Wide Fonts: Community Discord](https://discord.gg/88pmrUwx7g) - https://discord.gg/88pmrUwx7g
+
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
 - Full size of Downloaded Repository (compressed) : __±1.49GiB__
@@ -475,6 +477,10 @@ ______
 - Domaine
 	- Display Narrow
 	- Sans Display
+- Family
+- Founders Grotesk
+- Untitled Sans
+- Untitled Serif
 
 
 #### [Krisijanis Mezulis](https://www.krisjanismezulis.com)
@@ -792,6 +798,13 @@ ______
 - Sporting Grotesque
 
 
+#### [Vercel](https://vercel.com/font)
+- Bluu Next
+- Happy Times at the IKOB
+- Lack
+- Sporting Grotesque
+
+
 #### [Vernon Adams](https://github.com/vernnobile)
 - Oxygen
 
@@ -959,6 +972,7 @@ ______
 - [URW Type Foundry](https://www.urwtype.com/en/)
 - [U.S. Web Design System](https://designsystem.digital.gov)
 - [Velvetyne](http://velvetyne.fr)
+- [Vercel](https://vercel.com/font)
 - [Wordshape](http://wordshape.com)
 - [Zeta Fonts](https://www.zetafonts.com)
 
