@@ -681,10 +681,7 @@ ______
 
 #### [Rasmus Andersson](https://rsms.me/)
 - Inter
-	- 2.5 (Inter UI) -> 3.19 (Inter)
-	- 4.0 == 4.0.beta.9h
-- Inter Display
-	- 3.12.Alpha -> 3.19.Beta.2
+	- 2.5 (Inter UI) -> 4.0 (Inter)
 
 
 #### [Razzia Type](https://www.razziatype.com)
@@ -799,10 +796,8 @@ ______
 
 
 #### [Vercel](https://vercel.com/font)
-- Bluu Next
-- Happy Times at the IKOB
-- Lack
-- Sporting Grotesque
+- Geist
+    - +Mono
 
 
 #### [Vernon Adams](https://github.com/vernnobile)
