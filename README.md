@@ -248,6 +248,22 @@ ______
 - College Stencil
 
 
+#### [CoType Foundry](https://cotypefoundry.com/)
+- Aeonik
+- Aeonik Fono
+- Aeonik Mono
+- Aeonik Pro
+- Altform
+- Ambit
+- Betatron
+- Coanda
+- Gridular
+- Orbikular
+- RM Mono
+- RM Neue
+- Scandium
+
+
 #### [Craft Supply Co.](https://www.behance.net/craftsupplyco)
 - Marques
 
@@ -911,6 +927,7 @@ ______
 - [CNAP](https://www.cnap.fr)
 - [Colophon Foundry](https://www.colophon-foundry.org)
 - [Commercial Type](https://commercialtype.com/)
+- [CoType Foundry](https://cotypefoundry.com/)
 - [Craft Supply Co.](https://www.behance.net/craftsupplyco)
 - [Creative Tacos](https://creativetacos.com)
 - [Dalton Maag](https://www.daltonmaag.com)

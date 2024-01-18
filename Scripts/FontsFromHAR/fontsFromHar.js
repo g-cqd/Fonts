@@ -1,10 +1,4 @@
 const fs = require('fs');
-const opentype = require('opentype.js');
-
-function extractFontName(fontData) {
-  const font = opentype.parse(fontData);
-  return font.names.fullName.en || font.names.fullName;
-}
 
 function saveFontFiles(harFilePath) {
   const harData = fs.readFileSync(harFilePath, 'utf8');
@@ -27,5 +21,9 @@ function saveFontFiles(harFilePath) {
   console.log('Font files saved successfully.');
 }
 
-const harFilePath = '../network-logs.har';
-saveFontFiles(harFilePath);
+const stringArgs = process.argv.slice(2);
+const [path] = (stringArgs ?? []) || []
+
+if (path) {
+    saveFontFiles(path);
+}

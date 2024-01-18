@@ -98,7 +98,7 @@ async function download() {
                             continue;
                         }
                         const buffer = Buffer.from(await file.arrayBuffer());
-                        if (buffer.toString('utf-8').length < 3000) {
+                        if (buffer.toString('utf8').length < 3000) {
                             continue;
                         }
                         fs.appendFileSync(`./${foundry}${fontName}${suffix}.${extension}`, buffer);
@@ -120,7 +120,7 @@ async function download() {
                     continue;
                 }
                 const buffer = Buffer.from(await file.arrayBuffer());
-                if (buffer.toString('utf-8').length < 3000) {
+                if (buffer.toString('utf8').length < 3000) {
                     continue;
                 }
                 fs.appendFileSync(`./${foundry}${fontName}-${width}Variable.${extension}`, buffer);
