@@ -88,6 +88,7 @@ ______
 <summary><strong>Font List by Author</strong></summary>
 
 #### [ABCDinamo](https://www.abcdinamo.com)
+- Diatype
 - Diatype Programm
 - Favorit
 	- Pro
@@ -244,6 +245,10 @@ ______
 - System85
 
 
+#### [Connary Fagen, Inc.](https://connary.com/)
+- Quincy
+
+
 #### [Corentin Riviere](https://www.behance.net/corentinrvr)
 - College Stencil
 
@@ -320,6 +325,10 @@ ______
 
 #### [DSType Foundry](https://www.dstype.com/)
 - User
+
+
+#### [Eclectotype](https://www.instagram.com/eclectotype/?hl=en)
+- Gelica
 
 
 #### [Ertekinno](https://ertekin.xyz/)
@@ -676,6 +685,10 @@ ______
 - OffBit (Trial)
 
 
+#### [Prioritype Co](https://prioritypeco.com/)
+- Sunday Bloom
+
+
 #### [Process Type Foundry](https://processtypefoundry.com/)
 - Cardinal
 - Spectral
@@ -721,6 +734,10 @@ ______
 - Noe (+Display,Text)
 
 
+#### [Seb McLauchlan](https://sebmclauchlan.com/)
+- Honk
+
+
 #### [Source Foundry](https://github.com/source-foundry)
 - Hack
 
@@ -747,6 +764,10 @@ ______
 
 #### [Steve Matteson](https://mattesontypographics.com)
 - Open Sans
+
+
+#### [Studio Kmzero](https://www.kmzero.com/index.html)
+- Advertising Script
 
 
 #### [Suisse Typefaces](https://www.swisstypefaces.com)
@@ -861,6 +882,7 @@ ______
 - [Chris Simpson](https://github.com/chrismsimpson)
 - [Christian Robertson](http://christianrobertson.com)
 - [Coji Morishita](https://fr.osdn.net/users/coz/)
+- [Connary Fagen, Inc.](https://connary.com/)
 - [Corentin Riviere](https://www.behance.net/corentinrvr)
 - [Daniel Iglesias](https://www.behance.net/danibydani)
 - [Danilo De Marco](https://www.danilodemarco.com)
@@ -899,6 +921,7 @@ ______
 - [RMIT](https://www.rmit.edu.au)
 - [Roger S. Nelsson](https://www.myfonts.com/person/Roger_S_Nelsson/)
 - [Rune Bjørnerås](https://github.com/rubjo)
+- [Seb McLauchlan](https://sebmclauchlan.com/)
 - [Starbucks](https://creative.starbucks.com/typography/)
 - [Stephen French](https://www.behance.net/stephenfrenchjr)
 - [Stephen Nixon](https://arrowtype.com)
@@ -936,6 +959,7 @@ ______
 - [Discord](https://discord.com/)
 - [Displaay Type Foundry](https://displaay.net)
 - [DSType Foundry](https://www.dstype.com/)
+- [Eclectotype](https://www.instagram.com/eclectotype/?hl=en)
 - [Etcetera Type Company](https://www.etc.supply)
 - [FaceType](https://www.facetype.org)
 - [Family Type](https://familytype.com)
@@ -969,11 +993,13 @@ ______
 - [Parachute](https://www.parachutefonts.com)
 - [Power Type](https://power-type.com/)
 - [Process Type Foundry](https://processtypefoundry.com/)
+- [Prioritype Co](https://prioritypeco.com/)
 - [Production Type](https://www.productiontype.com)
 - [Razzia Type](https://www.razziatype.com)
 - [Schick-Toikka](https://www.schick-toikka.com)
 - [Source Foundry](https://github.com/source-foundry)
 - [Steppot](https://steppot.com)
+- [Studio Kmzero](https://www.kmzero.com/index.html)
 - [Suisse Typefaces](https://www.swisstypefaces.com)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com)
 - [Think Work Observe](https://t-wo.it)
