@@ -1,0 +1,9 @@
+/* Webfont: Thunder-ExtraLightHC */@font-face {
+    font-family: 'ThunderExtLt';
+    src: url('Thunder-ExtraLightHC.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-ExtraLightHC.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

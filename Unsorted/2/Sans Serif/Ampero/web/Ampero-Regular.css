@@ -1,0 +1,12 @@
+/* Webfont: Ampero-Regular */@font-face {
+    font-family: 'Ampero';
+    src: url('Ampero-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Ampero-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Ampero-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Ampero-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Ampero-Regular.svg#Ampero-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

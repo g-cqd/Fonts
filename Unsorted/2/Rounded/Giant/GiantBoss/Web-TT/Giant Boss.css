@@ -1,0 +1,12 @@
+/* Webfont: GiantBossRegular */@font-face {
+    font-family: 'GiantBoss';
+    src: url('Giant Boss.eot'); /* IE9 Compat Modes */
+    src: url('Giant Boss.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Giant Boss.woff') format('woff'), /* Modern Browsers */
+         url('Giant Boss.woff2') format('woff2'), /* Modern Browsers */
+         url('Giant Boss.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

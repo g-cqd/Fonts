@@ -1,0 +1,12 @@
+/* Webfont: Thunder-ExtraBoldLCItalic */@font-face {
+    font-family: 'ThunderExtBdIta';
+    src: url('Thunder-ExtraBoldLCItalic.eot'); /* IE9 Compat Modes */
+    src: url('Thunder-ExtraBoldLCItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Thunder-ExtraBoldLCItalic.woff') format('woff'), /* Modern Browsers */
+         url('Thunder-ExtraBoldLCItalic.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-ExtraBoldLCItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

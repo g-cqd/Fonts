@@ -1,0 +1,9 @@
+/* Webfont: Thunder-BlackLC */@font-face {
+    font-family: 'ThunderBlack';
+    src: url('Thunder-BlackLC.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-BlackLC.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,29 @@
+FONTLOG for the Blinker fonts
+
+This file provides detailed information on the Blinker Font Software.
+This information should be distributed along with the Blinker fonts
+and any derivative works.
+
+
+Basic Font Information
+
+Blinker is a Unicode typeface family with a Latin Extended glyph set, supporting multiple languages that use the Latin script. It could be expanded to support other scripts.
+
+
+ChangeLog
+
+23 Jan 2019 (supertype.de Juergen Huber and Martin Wenzel) Blinker Version 1.015
+- Initial release
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Juergen Huber, Martin Wenzel
+E: juergenhuber@supertype.de
+W: http://www.supertype.de
+D: Designer - original Latin glyphs
+
+supertype is a committed partnership of the type designers Jürgen Huber and Martin Wenzel.

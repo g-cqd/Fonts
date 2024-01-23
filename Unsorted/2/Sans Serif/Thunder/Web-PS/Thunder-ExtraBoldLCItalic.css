@@ -1,0 +1,9 @@
+/* Webfont: Thunder-ExtraBoldLCItalic */@font-face {
+    font-family: 'ThunderExtBdIta';
+    src: url('Thunder-ExtraBoldLCItalic.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-ExtraBoldLCItalic.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

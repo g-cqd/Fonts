@@ -339,6 +339,10 @@ ______
 - ETC Trispace
 
 
+#### [Evil Martians](https://evilmartians.com/)
+- Martian Mono
+
+
 #### [Fabrizio Schiavi](https://www.fsd.it)
 - Pragmata Pro
 
@@ -467,6 +471,10 @@ ______
 
 #### [Indian Type Foundry](https://www.indiantypefoundry.com)
 - Poppins
+
+
+#### [Intel](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
+- Intel One Mono
 
 
 #### [Ion Lucin](https://www.behance.net/ionL)
@@ -812,6 +820,10 @@ ______
 - TT Commons
 
 
+#### [Typofacto](https://typofacto.com/)
+- ExcellenceInMotion
+
+
 #### [Typotheque](https://www.typotheque.com)
 - Zilla Slab
 
@@ -961,6 +973,7 @@ ______
 - [DSType Foundry](https://www.dstype.com/)
 - [Eclectotype](https://www.instagram.com/eclectotype/?hl=en)
 - [Etcetera Type Company](https://www.etc.supply)
+- [Evil Martians](https://evilmartians.com/)
 - [FaceType](https://www.facetype.org)
 - [Family Type](https://familytype.com)
 - [fontfabric](https://www.fontfabric.com)
@@ -975,6 +988,7 @@ ______
 - [iA](https://ia.net)
 - [Indestructible Type\*](https://indestructibletype.com/Home.html)
 - [Indian Type Foundry](https://www.indiantypefoundry.com)
+- [Intel](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
 - [JAM Type](https://jamtype.com)
 - [JetBrains](https://www.jetbrains.com)
 - [Klim Type Foundry](https://klim.co.nz)
@@ -1006,6 +1020,7 @@ ______
 - [Tribby Type](https://tribby.com)
 - [Typefaces of The Temporary State](http://typefaces.temporarystate.net/)
 - [TypeType](https://typetype.org)
+- [Typofacto](https://typofacto.com/)
 - [Typotheque](https://www.typotheque.com)
 - [URW Type Foundry](https://www.urwtype.com/en/)
 - [U.S. Web Design System](https://designsystem.digital.gov)

@@ -1,0 +1,24 @@
+@font-face {
+	font-family: Vladivostok;
+	src:
+		url(bold.eot), /* IE9 Compat Modes */
+		url(bold.woff2) format("woff2"), /* Super Modern Browsers */
+		url(bold.woff) format("woff"), /* Pretty Modern Browsers */
+		url(bold.ttf) format("truetype"); /* Safari, Android, iOS */
+	font-style: normal;
+	font-weight: 600;
+}
+@font-face {
+	font-family: Vladivostok;
+	src:
+		url(regular.eot), /* IE9 Compat Modes */
+		url(regular.woff2) format("woff2"), /* Super Modern Browsers */
+		url(regular.woff) format("woff"), /* Pretty Modern Browsers */
+		url(regular.ttf) format("truetype"); /* Safari, Android, iOS */
+	font-style: normal;
+	font-weight: 300;
+}
+
+*,*:before,*:after {
+  text-rendering: optimizeLegibility;
+}

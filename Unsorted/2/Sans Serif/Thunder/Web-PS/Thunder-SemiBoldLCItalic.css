@@ -1,0 +1,9 @@
+/* Webfont: Thunder-SemiBoldLCItalic */@font-face {
+    font-family: 'ThunderSemBdIta';
+    src: url('Thunder-SemiBoldLCItalic.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-SemiBoldLCItalic.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,12 @@
+/* Webfont: Thunder-MediumLC */@font-face {
+    font-family: 'ThunderMed';
+    src: url('Thunder-MediumLC.eot'); /* IE9 Compat Modes */
+    src: url('Thunder-MediumLC.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Thunder-MediumLC.woff') format('woff'), /* Modern Browsers */
+         url('Thunder-MediumLC.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-MediumLC.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

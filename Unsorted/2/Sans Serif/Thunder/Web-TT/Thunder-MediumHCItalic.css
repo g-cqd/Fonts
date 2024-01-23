@@ -1,0 +1,12 @@
+/* Webfont: Thunder-MediumHCItalic */@font-face {
+    font-family: 'ThunderMedIta';
+    src: url('Thunder-MediumHCItalic.eot'); /* IE9 Compat Modes */
+    src: url('Thunder-MediumHCItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Thunder-MediumHCItalic.woff') format('woff'), /* Modern Browsers */
+         url('Thunder-MediumHCItalic.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-MediumHCItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

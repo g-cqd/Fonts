@@ -1,0 +1,9 @@
+/* Webfont: Thunder-SemiBoldHC */@font-face {
+    font-family: 'ThunderSemBd';
+    src: url('Thunder-SemiBoldHC.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-SemiBoldHC.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

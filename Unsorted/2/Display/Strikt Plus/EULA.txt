@@ -1,0 +1,51 @@
+End­User License Agreement ("Agreement") for Strikt typeface ("Font")
+
+Last updated: 13 june 2020
+
+Please read this End­User License Agreement.
+By downloading or using the Font, you are agreeing to be bound
+by the terms and conditions of this Agreement.
+
+License
+By purchasing this Font you acquire a non­exclusive, limited license
+to download, install and use the Font solely for your personal, commercial purposes
+strictly in accordance with the terms of this Agreement. 
+Font may only be installed on a single workstation, 
+but can be used in multiple projects and for unlimited end products for sale.
+You may embed the Font in documents, applications or devices either as a rasterized representation of the Font (e. g., a GIF or JPEG) 
+or as a subset of the Font as long as the document, application or device is distributed 
+in a secure format that permits only the viewing and printing but not the editing of the text.
+
+Restrictions
+You agree not to, and you will not permit others to:
+a) license, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise 
+make the Font available to any third party.
+b) modify, adapt, translate, reverse engineer, decompile, disassemble, alter, or attempt to discover the source code of the Font.  
+ñ) use the Font as the dominant element of a registered trademark
+
+Modifications to Font
+Petr Bushuev reserves the right to modify, suspend or discontinue, temporarily or
+permanently, the Font, with or without notice and without liability to you.
+
+
+Term and Termination
+This Agreement shall remain in effect until terminated by you or Petr Bushuev.
+Petr Bushuev may, in its sole discretion, suspend or terminate this Agreement with or without prior notice.
+This Agreement will terminate immediately, without prior notice from Petr Bushuev, in
+the event that you fail to comply with any provision of this Agreement.
+Upon termination of this Agreement, you shall cease all use of the Font and delete all copies
+of the Font from your mobile device or from your desktop.
+
+Severability
+If any provision of this Agreement is held to be unenforceable or invalid, such provision will be
+changed and interpreted to accomplish the objectives of such provision to the greatest extent
+possible under applicable law and the remaining provisions will continue in full force and effect.
+
+Amendments to this Agreement
+Petr Bushuev reserves the right, at its sole discretion, to modify or replace this
+Agreement at any time. If a revision is material I will provide at least 3 days' notice
+prior to any new terms taking effect. What constitutes a material change will be determined at my
+sole discretion.
+
+Contact Information
+If you have any questions about this Agreement, please contact me at info@naumtype.com

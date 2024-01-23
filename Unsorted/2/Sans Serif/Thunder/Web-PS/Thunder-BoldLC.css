@@ -1,0 +1,9 @@
+/* Webfont: Thunder-BoldLC */@font-face {
+    font-family: 'Thunder';
+    src: url('Thunder-BoldLC.woff2') format('woff2'), /* Modern Browsers */
+         url('Thunder-BoldLC.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

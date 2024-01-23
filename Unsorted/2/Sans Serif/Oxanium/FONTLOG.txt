@@ -1,0 +1,53 @@
+Oxanium font family
+https://sev.dev/fonts/oxanium
+
+
+Weights
+-------
+
+200  ExtraLight
+300  Light
+400  Regular
+500  Medium
+600  SemiBold
+700  Bold
+800  ExtraBold
+
+
+OpenType features
+-----------------
+
+kern  Provides kerning.
+mark  Positions combining diacritics relative to base characters.
+pnum  Replaces monospaced digits with proportional versions.
+zero  Replaces digit zero with a dotted version.
+
+
+Characters
+----------
+
+Adobe Latin 3
+
+U+0300  Combining grave
+U+0301  Combining acute
+U+0302  Combining circumflex
+U+0303  Combining tilde
+U+0304  Combining macron
+U+0306  Combining breve
+U+0307  Combining dot above
+U+0308  Combining diaeresis
+U+030A  Combining ring above
+U+030B  Combining double acute
+U+030C  Combining caron
+U+0326  Combining comma below
+U+0327  Combining cedilla
+U+0328  Combining ogonek
+U+1E9E  Capital Eszett
+U+F000  TrueType hinting marker (up=on, down=off)
+
+
+Changelog
+---------
+
+Oxanium 1.000  2019-03-20  Severin Meyer  hello@sev.dev
+  Initial release

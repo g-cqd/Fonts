@@ -1,0 +1,15 @@
+FONTLOG.txt for Neu5Land
+
+OFL Open Font License
+http://scripts.sil.org/OFL
+
+Fontfamily Neu5Land by Uwe Borchert 
+E-Mail: uwe.borchert@gmx.de
+
+This Typeface ist based on the Schmale Erbar Grotesk
+(Jakob Erbar, 1922ff) and was very popular on signs 
+in the former German Democratic Republic/Deutsche 
+Demokratische Repubik (GDR/DDR)
+
+Further readings on Wikipedia:
+https://en.wikipedia.org/wiki/Erbar_(typeface)

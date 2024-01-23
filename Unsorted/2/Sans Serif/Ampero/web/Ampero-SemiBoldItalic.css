@@ -1,0 +1,12 @@
+/* Webfont: Ampero-SemiBoldItalic */@font-face {
+    font-family: 'AmperoSemBd';
+    src: url('Ampero-SemiBoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('Ampero-SemiBoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Ampero-SemiBoldItalic.woff') format('woff'), /* Modern Browsers */
+         url('Ampero-SemiBoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Ampero-SemiBoldItalic.svg#Ampero-SemiBoldItalic') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

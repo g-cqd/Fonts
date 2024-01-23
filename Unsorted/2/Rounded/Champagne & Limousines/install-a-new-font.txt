@@ -1,0 +1,44 @@
+Installing fonts is quick and simple. Once fonts are installed, they are available to yours programs.
+
+The font packages you download from the www.ffonts.net is in compressed .zip files to reduce file size and make downloading faster. 
+If you have downloaded a font that is saved in .zip format, you can "unzip" it by double-clicking the icon for the font and following the instructions on the screen.
+
+INSTALLING MORE THAN 1000 FONTS ONTO YOUR COMPUTER CAN CAUSE A REDUCTION IN SPEED.
+WE RECOMMEND THAT YOU LIMIT YOURSELF TO A NUMBER LESS THAN 1000 (400-500). 
+
+
+Installing new fonts
+
+How to install a font under Windows? Download Font
+
+          Click on the "Download" button, save the font file on your hard disk.
+
+          Under Windows Vista : Select the font files (.ttf, .otf or .fon) then Right-click > Install
+
+          Under any version of Windows : Place the font files (.ttf, .otf or .fon) into the Fonts folder, usually C:\Windows\Fonts or C:\WINNT\Fonts
+          (can be reached as well by the Start Menu > Control Panel > Appearance and Themes > Fonts).
+
+          Tip : if you punctually need a font, you don't need to install it. Just double-click on the .ttf file, and while the preview window is opened you can use it in most of the programs you'll launch (apart from a few exceptions like OpenOffice).
+
+How to install a font under Mac OS ? Download Font
+
+          Click on the "Download" button, save the font file on your hard disk.
+
+          Under Mac OS X 10.3 or above (including the FontBook) : Double-click the font file > "Install font" button at the bottom of the preview.
+
+          Under any version of Mac OS X : Put the files into /Library/Fonts (for all users) or into /Users/Your_username/Library/Fonts (for you only).
+
+          Under Mac OS 9 or earlier : Download the font files (.ttf or .otf),Then drag the fonts suitcases into the System folder. The system will propose you to add them to the Fonts folder.
+
+ How to install a font under Linux ? Download Font
+
+          Click on the "Download" button, save the font file on your hard disk.
+
+          Copy the font files (.ttf or .otf) to fonts:/// in the File manager.
+
+
+Notes
+
+    * To select more than one font to add, in step 6, hold down the CTRL key, and then click each of the fonts you want to add.
+    * You can also drag OpenType, TrueType, Type 1, and raster fonts from another location to add them to the Fonts folder. This works only if the font is not already in the Fonts folder.
+    * To add fonts from a network drive without using disk space on your computer, clear the Copy fonts to Fonts folder check box in the Add Fonts dialog box. This is available only when you install OpenType, TrueType, or raster fonts using the Install New Font option on the File menu.

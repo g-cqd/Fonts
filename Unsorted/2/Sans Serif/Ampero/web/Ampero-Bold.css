@@ -1,0 +1,12 @@
+/* Webfont: Ampero-Bold */@font-face {
+    font-family: 'AmperoSemBd';
+    src: url('Ampero-Bold.eot'); /* IE9 Compat Modes */
+    src: url('Ampero-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Ampero-Bold.woff') format('woff'), /* Modern Browsers */
+         url('Ampero-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Ampero-Bold.svg#Ampero-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
