@@ -321,6 +321,7 @@ ______
 #### [Displaay Type Foundry](https://displaay.net)
 - Gellix - _Trial_
 - Matter - _Trial_
+- Roobert
 
 
 #### [DSType Foundry](https://www.dstype.com/)
@@ -340,6 +341,7 @@ ______
 
 
 #### [Evil Martians](https://evilmartians.com/)
+- Martian Grotesk
 - Martian Mono
 
 
@@ -522,6 +524,7 @@ ______
 
 #### [Laurids Kern](https://github.com/lauridskern)
 - Open Runde
+    - 1.0 -> 1.0.1
 
 
 #### [Lineto](https://lineto.com/)
