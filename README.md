@@ -102,6 +102,7 @@ ______
 - Permanent
 - Rauchwaren
 - Simon Mono
+- Social (Variable)
 
 
 #### [Alex Slobzheninov](https://www.behance.net/slobzheninov)
@@ -117,30 +118,23 @@ ______
 - Zefani
 
 
+#### [Andrew Woodhead](https://andrewwoodhead.com)
+- Burberry House
+
+
 #### [ANTI](https://anti.as)
 - Optician Sans
 
 
+#### [APK Type](https://apk-type.com)
+- APK Protocol
+
+
 #### [Apple](https://developer.apple.com/fonts/)
-- San Francisco + Symbols
-	- Pro :
-        - Display
-        - Rounded
-        - Text
-        - Variable (2020)
-	- Compact :
-        - Display
-        - Rounded
-        - Text
-        - Variable (2020)
-- San Francisco Mono
-    - Variable (2020)
-- New York
-	- Extra Large
-	- Large
-	- Medium
-	- Small
-    - Variable (2020)
+- San Francisco (2017, 2020)
+- San Francisco Mono (2020)
+- San Francisco Camera (2019)
+- New York (2017, 2020)
 
 
 #### [Arendxstudio](https://www.behance.net/aseprendii)
@@ -157,6 +151,12 @@ ______
 	- Square
 	- Circle
 - Geomanist
+- Salome
+  - Standard
+  - Deco
+  - Fine
+  - Stencil
+- Silka
 
 
 #### [Belleve Invis](https://github.com/be5invis)
@@ -325,6 +325,7 @@ ______
 
 
 #### [DSType Foundry](https://www.dstype.com/)
+- Breve
 - User
 
 
@@ -430,6 +431,10 @@ ______
 - Lovelo
 
 
+#### [Harmonais Visual](https://harmonaisvisual.com/)
+- Fitzgerald
+
+
 #### [Harvatt House](https://harvatt.house)
 - Coves
 - Kayak Sans
@@ -482,6 +487,10 @@ ______
 #### [Ion Lucin](https://www.behance.net/ionL)
 - Big John (+Pro)
 - Slim joe
+
+
+#### [International Typeface Corporation](https://en.wikipedia.org/wiki/International_Typeface_Corporation)
+- ITC Garamond
 
 
 #### [JAM Type](https://jamtype.com)
@@ -617,6 +626,12 @@ ______
 - Point - _Demo_
 
 
+#### [Nicky Laatz](https://nickylaatz.com/)
+- Awesome
+- Glamour Absolute
+- Seriously Nostalgic
+
+
 #### [Nikita Prokopov](https://tonsky.me)
 - Fira Code
 	- 2.0 -> 5.2
@@ -692,6 +707,10 @@ ______
 - Junicode
 
 
+#### [PJ Onori](https://pjonori.design)
+- Olivia Sans
+
+
 #### [Power Type](https://power-type.com/)
 - OffBit (Trial)
 
@@ -713,6 +732,10 @@ ______
 #### [Radomir Tinkov](https://www.tinkov.info)
 - Gilroy
 - Qanelas (+Soft)
+
+
+#### [RandomMaerks](https://www.behance.net/randommaerks)
+- Overused Grotesk
 
 
 #### [Raph Levien](https://levien.com)
@@ -747,6 +770,10 @@ ______
 
 #### [Seb McLauchlan](https://sebmclauchlan.com/)
 - Honk
+
+
+#### [Shakira Studio](https://shakirastudio.com/)
+- Rangen
 
 
 #### [Source Foundry](https://github.com/source-foundry)
@@ -790,6 +817,10 @@ ______
 - Suisse Works
 
 
+#### [Taboja Studio](https://www.behance.net/taboja_studio)
+- East Kind
+
+
 #### [Taner Ardalı](https://tanerardali.com/)
 - Antre
 - Planc
@@ -817,6 +848,13 @@ ______
 #### [Typefaces of The Temporary State](http://typefaces.temporarystate.net/)
 - Soyuz Grotesk
 - Wremena
+
+
+#### [TypeHigh](https://www.typehigh.nl/)
+- Azimut
+- Halide Router
+- Orion VHS
+- Radiant
 
 
 #### [TypeType](https://typetype.org)
@@ -888,6 +926,7 @@ ______
 - [Alex Slobzheninov](https://www.behance.net/slobzheninov)
 - [Andreas Larsen](https://github.com/larsenwork)
 - [Andrew Herndon](https://www.behance.net/AndrewHerndon)
+- [Andrew Woodhead](https://andrewwoodhead.com)
 - [ANTI](https://anti.as)
 - [Arendxstudio](https://www.behance.net/aseprendii)
 - [Atelier Olschinsky](https://www.olschinsky.at)
@@ -926,11 +965,13 @@ ______
 - [Mikhail Sharanda](https://gent.media)
 - [Nathan Rutzky](https://nath.co)
 - [Ndiscover](https://www.ndiscovered.com)
+- [Nicky Laatz](https://nickylaatz.com/)
 - [Nikita Prokopov](https://tonsky.me)
 - [Pablo Impallari](https://www.behance.net/impallari)
 - [Paul D. Hunt](https://fonts.adobe.com/designers/paul-d-hunt)
 - [Peter Baker](https://github.com/psb1558)
 - [Radomir Tinkov](https://www.tinkov.info)
+- [RandomMaerks](https://www.behance.net/randommaerks)
 - [Raph Levien](https://levien.com)
 - [Rasmus Andersson](https://rsms.me/)
 - [RMIT](https://www.rmit.edu.au)
@@ -941,7 +982,9 @@ ______
 - [Stephen French](https://www.behance.net/stephenfrenchjr)
 - [Stephen Nixon](https://arrowtype.com)
 - [Steve Matteson](https://mattesontypographics.com)
+- [Taboja Studio](https://www.behance.net/taboja_studio)
 - [Taner Ardalı](https://tanerardali.com/)
+- [TypeHigh](https://www.typehigh.nl/)
 - [Timo Kuilder](https://timokuilder.com)
 - [Vernon Adams](https://github.com/vernnobile)
 - [Vicenzo Vuono](https://www.behance.net/vincenzovuono)
@@ -955,6 +998,7 @@ ______
 	<summary><strong>Foundries</strong></summary>
 
 - [ABCDinamo](https://www.abcdinamo.com)
+- [APK Type](https://apk-type.com)
 - [Apple](https://developer.apple.com/fonts/)
 - [atipo foundry](http://atipofoundry.com)
 - [Berthold Types](https://www.bertholdtypes.com)
@@ -986,12 +1030,14 @@ ______
 - [Gradient](https://wearegradient.net/)
 - [G-Type](https://g-type.com/)
 - [Hanken Design Co.](https://hanken.co)
+- [Harmonais Visual](https://harmonaisvisual.com/)
 - [Harvatt House](https://harvatt.house)
 - [Hoefler & Co.](https://www.typography.com)
 - [iA](https://ia.net)
 - [Indestructible Type\*](https://indestructibletype.com/Home.html)
 - [Indian Type Foundry](https://www.indiantypefoundry.com)
 - [Intel](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
+- [Internation Typeface Corporation](https://en.wikipedia.org/wiki/International_Typeface_Corporation)
 - [JAM Type](https://jamtype.com)
 - [JetBrains](https://www.jetbrains.com)
 - [Klim Type Foundry](https://klim.co.nz)
@@ -1014,6 +1060,7 @@ ______
 - [Production Type](https://www.productiontype.com)
 - [Razzia Type](https://www.razziatype.com)
 - [Schick-Toikka](https://www.schick-toikka.com)
+- [Shakira Studio](https://shakirastudio.com/)
 - [Source Foundry](https://github.com/source-foundry)
 - [Steppot](https://steppot.com)
 - [Studio Kmzero](https://www.kmzero.com/index.html)
