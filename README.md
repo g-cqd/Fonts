@@ -399,8 +399,15 @@ ______
 - Product Sans
 
 
-### [Gradient](https://wearegradient.net/)
+### [Gradient Type](https://wearegradient.net/)
+- Gosh
+- Kokoro
+- Linear Sans
+- NeuSans
+- Okay Serif
 - PolySans
+- PolySans (old)
+- Radial
 
 
 #### [Graham Paterson](https://grahampaterson.co.za)
@@ -1027,7 +1034,7 @@ ______
 - [FontMesa](https://www.linotype.com/481423/fontmesa-library.html)
 - [Fonts with Love](http://www.fontswithlove.com)
 - [Google](https://fonts.google.com)
-- [Gradient](https://wearegradient.net/)
+- [Gradient Type](https://wearegradient.net/)
 - [G-Type](https://g-type.com/)
 - [Hanken Design Co.](https://hanken.co)
 - [Harmonais Visual](https://harmonaisvisual.com/)
