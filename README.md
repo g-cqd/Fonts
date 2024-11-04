@@ -131,10 +131,24 @@ ______
 
 
 #### [Apple](https://developer.apple.com/fonts/)
+- ADT Numeric
+- ADT Time
+- New York (2017, 2020)
+- New York Numeric
 - San Francisco (2017, 2020)
 - San Francisco Mono (2020)
 - San Francisco Camera (2019)
-- New York (2017, 2020)
+- SF Compact Soft
+- SF Numeric
+- SF Rail Numeric
+- SF Rail Time
+- SF Rounded Numeric
+- SF Rounded Time
+- SF Soft
+- SF Soft Time
+- SF Stencil Numeric
+- SF Stencil Time
+- SF UI Soft
 
 
 #### [Arendxstudio](https://www.behance.net/aseprendii)
