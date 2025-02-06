@@ -98,6 +98,7 @@ ______
 - Ginto Nord
 - Gothic
 - Monument Grotesk
+- OpenAI Sans
 - Pegasus
 - Permanent
 - Rauchwaren
